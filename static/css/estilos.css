@@ -1,0 +1,6 @@
+.graficas div{
+    width: 30%;
+    height: auto;
+    display: block;
+    border: 1px solid burlywood;
+}
