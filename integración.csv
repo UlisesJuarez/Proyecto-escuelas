@@ -1,0 +1,774 @@
+#,Escuela,SEXO,Edad en anos,Z Talla para la edad,percentil,Talla para la edad,Z Longitud relativa de pierna,percentil,Longitud relativa de pierna,Z IMC,percentil,�ndice de Masa Corporal
+1,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,1.514940652,93.51062828,Normal,-0.584419541,27.94690415,Normal,1.993204943,97.6880495,Obesidad
+2,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,1.315150404,90.57703202,Normal,-1.025081124,15.26624555,Normal,-0.524365325,30.00122346,Normal
+3,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,0.004361796,50.17400995,Normal,-1.353774591,8.790415126,Normal,1.80132055,96.41738147,Obesidad
+4,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,1.315150404,90.57703202,Normal,-0.160604242,43.62025569,Normal,1.266555257,89.73428201,Obesidad
+5,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,-0.171989525,43.17228819,Normal,0.089079905,53.54907965,Normal,0.514550181,69.65663071,Normal
+6,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,7,-1.435605428,7.555732472,Normal,-1.93045069,2.677550971,Piernas cortas,0.296237125,61.64755007,Normal
+7,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,-0.939749988,17.36729087,Normal,0.585425459,72.08691627,Normal,0.346041809,63.53443527,Normal
+8,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,6,-1.298579243,9.704418267,Normal,-43.37894732,0,Piernas cortas,-2.459083912,0.696460283,Desnutricion
+9,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,-2.091867276,1.822519505,Desnutricion,-50.39079194,0,Piernas cortas,1.923531686,97.27933445,Obesidad
+10,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,-0.630334881,26.4237753,Normal,-44.99614495,0,Piernas cortas,1.83371958,96.66521847,Obesidad
+11,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,6,-0.724435472,23.43992147,Normal,-42.54018822,0,Piernas cortas,0.477681899,68.35616851,Normal
+12,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,6,-1.107197986,13.41041691,Normal,0.66866455,74.81452569,Normal,0.197833022,57.84121457,Normal
+13,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,7,1.736892808,95.87969534,Alto,-0.229742018,40.9146121,Normal,-0.968081385,16.6501863,Normal
+14,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,-1.128572345,12.95391412,Normal,-0.016662606,49.33528895,Normal,-0.109385954,45.64481868,Normal
+15,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,-0.545554958,29.26859465,Normal,-0.233000815,40.78803863,Normal,0.37422134,64.58801756,Normal
+16,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,7,-0.02657903,48.93977497,Normal,-0.125413893,45.0097945,Normal,-0.341698037,36.62890747,Normal
+17,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,0.224752073,58.8913924,Normal,-1.136714005,12.78289314,Normal,0.954452211,83.00726058,Normal
+18,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,7,-1.084779682,13.90096233,Normal,-1.662493259,4.820695693,Piernas cortas,2.501728703,99.38205705,Obesidad
+19,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,7,0.170391054,56.76486965,Normal,-1.142893158,12.65414768,Normal,-1.344782062,8.934781239,Bajo Peso
+20,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,6,-0.341672958,36.62985125,Normal,-0.070140828,47.20407855,Normal,0.355369905,63.88437542,Normal
+21,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,7,-0.933177949,17.53640489,Normal,-0.458976004,32.31256989,Normal,0.391761134,65.23826426,Normal
+22,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,6,-0.150291701,44.02672401,Normal,-0.052478221,47.90738242,Normal,0.410186921,65.91655829,Normal
+23,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,0.504487222,69.30404804,Normal,-0.498810838,30.89563259,Normal,0.543703526,70.66772471,Normal
+24,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,7,-0.780984903,21.7405687,Normal,0.536718427,70.42689372,Normal,0.110363725,54.39395397,Normal
+25,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,-0.285354788,38.7686171,Normal,-0.068095862,47.2854662,Normal,-1.538963113,6.190665093,Bajo Peso
+26,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,-0.89301575,18.59243691,Normal,-1.149600979,12.51541275,Normal,0.924201491,82.23092903,Normal
+27,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,8,-0.04693676,48.12818151,Normal,-0.548774238,29.15801959,Normal,-1.165727521,12.18623146,Bajo Peso
+28,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,8,0.130116276,55.17627836,Normal,-0.899465176,18.42024683,Normal,1.103320887,86.50560804,Obesidad
+29,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,0.680975534,75.20565141,Normal,-0.98294108,16.28182191,Normal,0.713437767,76.22125451,Normal
+30,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,-1.16423488,12.21644194,Normal,-0.372565375,35.47359736,Normal,1.044607259,85.18977384,Obesidad
+31,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,0.680975534,75.20565141,Normal,-0.714645531,23.74140513,Normal,-0.017651627,49.29583855,Normal
+32,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,7,-0.343740241,36.55208227,Normal,-0.633654391,26.3153198,Normal,1.470943452,92.93467949,Obesidad
+33,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,7,2.699027503,99.65228786,Alto,1.063769965,85.62835397,Normal,-0.171501377,43.19147741,Normal
+34,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,-0.285354788,38.7686171,Normal,0.261548541,60.31652391,Normal,-0.829181788,20.35007744,Normal
+35,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,-0.543122225,29.35228257,Normal,-6.870986124,3.18798E-10,Piernas cortas,0.361818022,64.12559882,Normal
+36,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,8,1.20543313,88.59819309,Normal,-0.760417585,22.35025077,Normal,1.303414404,90.37833391,Obesidad
+37,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,-1.715357997,4.313980564,Desnutricion,-0.74746438,22.73916483,Normal,-0.888970408,18.70094919,Normal
+38,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,7,-0.72696955,23.36223048,Normal,0.371208146,64.47587468,Normal,0.498230828,69.08393219,Normal
+39,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,8,-0.683959637,24.70003269,Normal,5.14517918,99.99998664,Piernas largas,-0.0555982,47.78309493,Normal
+40,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,8,0.322518377,62.6469991,Normal,11.69445439,100,Piernas largas,3.41706398,99.9683498,Obesidad
+41,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,-0.012235169,49.51189956,Normal,-0.516049386,30.29099586,Normal,0.547170742,70.78692825,Normal
+42,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,7,-0.857183887,19.5671633,Normal,-0.942555808,17.29540763,Normal,-1.055447493,14.56103559,Bajo Peso
+43,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,8,-0.159520845,43.66292685,Normal,0.644105108,74.0246361,Normal,-2.692403469,0.35469534,Desnutricion
+44,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,8,-0.717740328,23.64587062,Normal,-0.184108059,42.6964342,Normal,0.17243855,56.84536163,Normal
+45,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,-0.283658958,38.83358752,Normal,-0.83278171,20.2483926,Normal,-0.230825978,40.87249993,Normal
+46,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,8,-2.061301446,1.963714516,Desnutricion,-1.744179035,4.056393795,Piernas cortas,-0.308066119,37.90160108,Normal
+47,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,-0.166012095,43.40737159,Normal,-0.59642082,27.54470677,Normal,-1.008719888,15.65544954,Normal
+48,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,8,1.083528716,86.0713094,Normal,-2.479854046,0.657180857,Piernas cortas,3.282652588,99.94858234,Obesidad
+49,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,8,-0.33318361,36.94978447,Normal,-0.544792747,29.2948034,Normal,0.296121454,61.64313349,Normal
+50,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,-0.888999483,18.70016789,Normal,-1.004216419,15.7637155,Normal,-1.177564648,11.94851052,Bajo Peso
+51,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,8,-0.7550087,22.51218811,Normal,5.116119978,99.99998441,Piernas largas,2.096195113,98.19675568,Obesidad
+52,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,8,-2.06893991,1.927586291,Desnutricion,-2.242278788,1.24716799,Piernas cortas,0.378715344,64.75503713,Normal
+53,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,8,-1.566173191,5.86540385,Normal,-1.49223057,6.78193555,Normal,0.227094382,58.98248239,Normal
+54,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,0.721448477,76.46831851,Normal,0.168272725,56.68156347,Normal,0.349465511,63.66300706,Normal
+55,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,8,-0.820274234,20.60298957,Normal,-0.559514321,28.79053802,Normal,-1.614188661,5.324325539,Bajo Peso
+56,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,-1.041730661,14.87682847,Normal,-0.987767219,16.16333326,Normal,2.355318474,99.07465816,Obesidad
+57,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,-1.744046207,4.057551642,Desnutricion,-0.499072662,30.88640981,Normal,-0.869871986,19.21851832,Normal
+58,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,-0.255738363,39.90764351,Normal,-2.531584727,0.567741905,Piernas cortas,3.622223144,99.9853959,Obesidad
+59,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,1.637598726,94.92472855,Normal,0.178583502,57.08676252,Normal,-0.019359121,49.22773106,Normal
+60,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,-0.513861583,30.36743842,Normal,-1.876887112,3.026678379,Piernas cortas,2.544000841,99.4520459,Obesidad
+61,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,0.151881374,56.03597505,Normal,-2.116459203,1.715288574,Piernas cortas,3.30910512,99.95320266,Obesidad
+62,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,0.488507969,68.74049586,Normal,-0.875420709,19.06725181,Normal,0.69912462,75.77629232,Normal
+63,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,0.382592793,64.89891426,Normal,-0.585338476,27.91600743,Normal,1.928156533,97.30821705,Obesidad
+64,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,-1.200361796,11.49994298,Normal,-1.817405879,3.457749409,Piernas cortas,0.853683101,80.33596999,Normal
+65,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,1.409340879,92.06328016,Normal,-2.049080058,2.022714356,Piernas cortas,-0.098947856,46.05898357,Normal
+66,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,1.025668226,84.74760019,Normal,-0.242346026,40.42560264,Normal,2.337874705,99.03031256,Obesidad
+67,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,0.287085713,61.29766543,Normal,-1.674223795,4.704331237,Piernas cortas,0.826481361,79.57344566,Normal
+68,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,-0.395135156,34.63715723,Normal,-1.067539182,14.28642151,Normal,2.615657106,99.55472029,Obesidad
+69,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,-0.940688277,17.3432314,Normal,-1.887237379,2.956420244,Piernas cortas,1.758191694,96.0642551,Obesidad
+70,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,0.442898854,67.10805519,Normal,-1.654930486,4.896929971,Piernas cortas,2.000310007,97.72666004,Obesidad
+71,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,0.082292637,53.27929954,Normal,0.18083005,57.17495125,Normal,1.134813627,87.17732923,Obesidad
+72,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,0.360165028,64.06381373,Normal,-1.853364678,3.191505328,Piernas cortas,0.835498183,79.82813653,Normal
+73,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,1.35543342,91.23602461,Normal,-0.439671136,33.00876553,Normal,3.077520035,99.8956346,Obesidad
+74,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,1.540028491,93.82232956,Normal,0.46950964,68.06473019,Normal,0.64148442,73.93959999,Normal
+75,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,-1.115973123,13.22168197,Normal,0.707079446,76.0241446,Normal,-0.388019255,34.90008921,Normal
+76,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,-1.158151247,12.34011599,Normal,-1.137078261,12.77527854,Normal,1.857283827,96.8364608,Obesidad
+77,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,-1.037460239,14.97607085,Normal,-1.068841944,14.25704479,Normal,0.151617434,56.02556589,Normal
+78,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,-0.675306047,24.97406715,Normal,-0.609806874,27.09948736,Normal,1.384667161,91.69228675,Obesidad
+79,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,-1.827418537,3.381843217,Desnutricion,-1.502210798,6.652133847,Normal,-2.551028873,0.537027138,Desnutricion
+80,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,0.586147649,72.11118509,Normal,-0.628979803,26.46811393,Normal,2.258994986,98.80581516,Obesidad
+81,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,0.3387391,63.25968585,Normal,-1.861661261,3.132542613,Piernas cortas,2.680192385,99.63210071,Obesidad
+82,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,-0.648182585,25.84334323,Normal,-2.321280409,1.013585743,Piernas cortas,2.198041698,98.60269327,Obesidad
+83,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,11,-0.370601846,35.54670534,Normal,-1.702859807,4.429715367,Piernas cortas,1.139715293,87.27975332,Obesidad
+84,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,12,-0.575897815,28.23421265,Normal,-0.105017146,45.81811019,Normal,-0.210224617,41.67461838,Normal
+85,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,-0.201718484,42.00684058,Normal,-1.426111927,7.691801827,Normal,0.220542003,58.72754679,Normal
+86,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,-1.198976636,11.52685152,Normal,-3.099711858,0.096854494,Piernas cortas,2.434829212,99.255059,Obesidad
+87,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,11,-0.834982124,20.18638868,Normal,-1.952063907,2.546530887,Piernas cortas,2.073155813,98.09211094,Obesidad
+88,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,-1.198976636,11.52685152,Normal,-1.517091528,6.462178853,Normal,1.998688637,97.71789734,Obesidad
+89,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,11,-0.458152118,32.34215787,Normal,-0.696981822,24.2907085,Normal,1.576402698,94.25334864,Obesidad
+90,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,13,-2.344429556,0.952810496,Desnutricion,-0.568711845,28.47758539,Normal,-1.166696126,12.16665539,Bajo Peso
+91,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,-1.983561196,2.365238932,Desnutricion,-0.797458792,21.25923132,Normal,-0.783892344,21.65516414,Normal
+92,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,11,-1.651059907,4.936317145,Desnutricion,-1.895527869,2.901125158,Piernas cortas,-0.794359245,21.34931615,Normal
+93,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,11,-1.206228857,11.38646301,Normal,-0.026085774,48.95944621,Normal,-0.392595384,34.73091748,Normal
+94,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,-0.628272263,26.49127992,Normal,-1.527195475,6.335620555,Normal,0.595294145,72.41765655,Normal
+95,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,0.081853309,53.26183179,Normal,-1.119248533,13.15170628,Normal,2.137300385,98.37132162,Obesidad
+96,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,-0.060254338,47.59765343,Normal,-0.801284944,21.14833526,Normal,-0.481668888,31.50205905,Normal
+97,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,-0.212874242,41.57125268,Normal,-2.015683925,2.191651882,Piernas cortas,2.471203704,99.32670456,Obesidad
+98,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,-2.036811039,2.083449081,Desnutricion,-1.164401973,12.21305742,Normal,-0.036799696,48.53223583,Normal
+99,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,11,0.36250831,64.15138926,Normal,-0.892567822,18.60443288,Normal,1.179481201,88.08966909,Obesidad
+100,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,0.798289784,78.76488274,Normal,-0.890919514,18.64861754,Normal,1.968251288,97.54804342,Obesidad
+101,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,-0.896288838,18.50492594,Normal,-0.484894133,31.38757222,Normal,-0.67458094,24.99710229,Normal
+102,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,0.0941034,53.74864903,Normal,-0.53689544,29.56699204,Normal,0.297084404,61.67989645,Normal
+103,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,-0.10689349,45.7436739,Normal,-1.114974959,13.24305762,Normal,-0.2790813,39.00912168,Normal
+104,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,5,-0.928334115,17.66171416,Normal,0.198136297,57.85307865,Normal,-1.114702377,13.24889909,Bajo Peso
+105,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,5,-2.250727424,1.220140336,Desnutricion,-0.700013216,24.19595256,Normal,-0.615912533,26.89761246,Normal
+106,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,6,-0.26302339,39.62662754,Normal,-0.249061349,40.16566631,Normal,1.106253956,86.56916926,Obesidad
+107,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,6,-0.170405584,43.23455905,Normal,-0.737717887,23.03429501,Normal,3.215571846,99.93490755,Obesidad
+108,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,6,0.417199878,66.17338927,Normal,-0.827518393,20.39716507,Normal,0.559172494,71.19779984,Normal
+109,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,6,2.268294402,98.83443656,Alto,-0.603382906,27.31269956,Normal,4.254936258,99.99895446,Obesidad
+110,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,0.479144773,68.40821801,Normal,-1.03662391,14.99555828,Normal,0.46250461,67.81402514,Normal
+111,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,10,-4.387308527,0.00057381,Desnutricion,-2.165723848,1.516614778,Piernas cortas,1.047886241,85.26544889,Obesidad
+112,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,-0.939749988,17.36729087,Normal,-1.079595363,14.01612036,Normal,0.300753421,61.81987353,Normal
+113,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,0.076927593,53.06594267,Normal,-2.148248681,1.584700266,Piernas cortas,2.080495895,98.12599641,Obesidad
+114,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,6,0.515797194,69.70019689,Normal,-1.428748949,7.653820176,Normal,5.610449598,99.99999899,Obesidad
+115,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,6,0.615222401,73.07960721,Normal,1.726204551,95.78446902,Piernas largas,-2.598709533,0.467874582,Desnutricion
+116,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,-0.562105274,28.70221475,Normal,0.61053493,72.92462441,Normal,-1.526283413,6.346964884,Bajo Peso
+117,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,5,0.364452343,64.22398726,Normal,-0.744706777,22.82245007,Normal,1.856190781,96.82868152,Obesidad
+118,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,6,-1.045162947,14.79738327,Normal,-0.923696081,17.78222866,Normal,-1.191474115,11.67337563,Bajo Peso
+119,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,5,-1.326146128,9.239564967,Normal,-0.427525856,33.44981784,Normal,-0.272391331,39.2660569,Normal
+120,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,8,-1.006126058,15.71774676,Normal,-2.147586088,1.587332577,Piernas cortas,-0.116583986,45.35948643,Normal
+121,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,0.858544675,80.47041136,Normal,-0.374383527,35.40594986,Normal,-0.374920506,35.3859794,Normal
+122,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,0.857707752,80.44730709,Normal,-2.111264377,1.737479709,Piernas cortas,1.163558922,87.76985966,Obesidad
+123,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,7,-0.718068987,23.63573755,Normal,1.543860933,93.8688987,Normal,2.084001367,98.14199786,Obesidad
+124,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,8,0.126759411,55.0434589,Normal,0.074725843,52.97835774,Normal,-3.075923355,0.10492589,Desnutricion
+125,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,8,-0.451756099,32.57223497,Normal,0.043717152,51.74350665,Normal,-0.238668799,40.56812063,Normal
+126,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,0.061573516,52.45487658,Normal,-0.788586871,21.51767533,Normal,3.218966818,99.93567331,Obesidad
+127,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,-0.408205899,34.15612589,Normal,-1.147298371,12.56291635,Normal,1.2645947,89.69916731,Obesidad
+128,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,8,0.414339828,66.06873752,Normal,0.043136861,51.72037821,Normal,1.22559312,88.98240859,Obesidad
+129,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,-0.486107754,31.34453847,Normal,-0.438457103,33.05274801,Normal,-1.167324549,12.15396642,Bajo Peso
+130,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,2.423453738,99.23131444,Alto,-1.18059779,11.8881271,Normal,2.018834062,97.82477653,Obesidad
+131,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,8,-0.477099317,31.66457005,Normal,-1.646260264,4.985509334,Piernas cortas,1.180634374,88.11259989,Obesidad
+132,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,-0.001907951,49.92388381,Normal,-0.314753859,37.64742739,Normal,0.691681424,75.54312925,Normal
+133,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,-1.159006382,12.32267917,Normal,-1.752444007,3.984874499,Piernas cortas,0.028802434,51.14889201,Normal
+134,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,8,-0.655930142,25.59345367,Normal,-0.813033143,20.80995282,Normal,0.421642628,66.33570568,Normal
+135,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,9,-0.405865095,34.24208631,Normal,0.069826512,52.78341273,Normal,0.704149138,75.93300492,Normal
+136,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,9,-1.668275939,4.763048104,Desnutricion,-0.94439054,17.24850568,Normal,-0.704081384,24.06910463,Normal
+137,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,-0.566628667,28.54832472,Normal,-0.815717429,20.73308843,Normal,1.811414697,96.49616587,Obesidad
+138,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Masculino,10,0.870611846,80.8016937,Normal,0.019001472,50.75800344,Normal,-0.205353331,41.86480399,Normal
+139,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,11,-0.322898764,37.33859564,Normal,-1.368742461,8.553989628,Normal,2.367157954,99.10373597,Obesidad
+140,"Esc. 17 de abril de 1869, Xochitepec, Morelos",Femenino,11,1.521319024,93.59101008,Normal,0.30815365,62.10172905,Normal,0.004079684,50.16275538,Normal
+141,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,1.022344623,84.66910898,Normal,-1.044968796,14.80186958,Normal,1.078271651,85.95437277,Obesidad
+142,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-1.915194026,2.773388205,Desnutricion,0.487804499,68.71558378,Normal,2.299813578,98.9270608,Obesidad
+143,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-1.562662791,5.906596537,Normal,-1.992087864,2.318070915,Piernas cortas,0.897287266,81.52171752,Normal
+144,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,3,-1.867447607,3.091955347,Desnutricion,-0.356183882,36.08514309,Normal,0.301095165,61.83290359,Normal
+145,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,3,-1.131731593,12.88736474,Normal,1.021315694,84.64475533,Normal,0.022385013,50.89295822,Normal
+146,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-1.28540964,9.932458714,Normal,-0.093970195,46.25664164,Normal,0.258441207,60.19667911,Normal
+147,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-0.613369978,26.98158661,Normal,0.212025827,58.39565574,Normal,0.913910711,81.96181174,Normal
+148,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,5,-0.506814849,30.61423683,Normal,-0.806669915,20.99283407,Normal,1.462435526,92.81890499,Obesidad
+149,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,5,-1.768477666,3.849054131,Desnutricion,0.066054591,52.63328185,Normal,0.364657347,64.23163992,Normal
+150,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,5,-1.892423778,2.92172702,Desnutricion,-2.545015416,0.546364569,Piernas cortas,1.04301982,85.15304433,Obesidad
+151,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,5,-0.509457235,30.52158835,Normal,-0.427525856,33.44981784,Normal,-0.352805663,36.21170691,Normal
+152,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,5,-1.991520412,2.321185173,Desnutricion,-0.671032338,25.10999646,Normal,0.666966057,74.76030927,Normal
+153,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-0.848144103,19.81788613,Normal,1.005194683,84.25984426,Normal,0.022090018,50.88119256,Normal
+154,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,0.294554693,61.58329615,Normal,0.753026654,77.42830514,Normal,-0.342248679,36.60818771,Normal
+155,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,5,-0.75335172,22.56192934,Normal,1.285018196,90.06070372,Normal,-1.34696998,8.899495071,Bajo Peso
+156,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,5,-0.931016438,17.59225305,Normal,-0.695588834,24.33431804,Normal,-1.693150477,4.521341418,Desnutricion
+157,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,5,-1.166702092,12.16653488,Normal,-0.124788167,45.03456279,Normal,0.775922262,78.11025563,Normal
+158,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,5,0.259464313,60.23614932,Normal,-2.233928379,1.274389296,Piernas cortas,3.916508195,99.99550796,Obesidad
+159,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,0.181930923,57.21815319,Normal,0.499658162,69.13421015,Normal,1.516908436,93.53550983,Obesidad
+160,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,5,-0.822177812,20.54878526,Normal,-0.379346482,35.22152936,Normal,0.98553156,83.78184815,Normal
+161,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,0.247960866,59.79176571,Normal,0.586511933,72.12342275,Normal,0.306694898,62.04621933,Normal
+162,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,5,0.242627192,59.58528929,Normal,-1.274116372,10.13110885,Normal,2.47903604,99.34131003,Obesidad
+163,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-0.954753624,16.98511525,Normal,0.292278267,61.49630629,Normal,0.701111312,75.83832243,Normal
+164,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-1.28540964,9.932458714,Normal,0.129958445,55.17003482,Normal,0.538741424,70.49673567,Normal
+165,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,3,-0.530226807,29.79773436,Normal,0.054277545,52.16429803,Normal,-0.840289478,20.03730499,Normal
+166,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,3,-1.610563876,5.363740628,Normal,0.686591837,75.3830013,Normal,-0.023620135,49.05778055,Normal
+167,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,3,-2.197582773,1.398942598,Desnutricion,-0.168363733,43.31485687,Normal,0.848957248,80.20474591,Normal
+168,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,2,-0.935295021,17.48181404,Normal,-0.142336715,44.34070238,Normal,-0.518808451,30.19471619,Normal
+169,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,2,-2.219406984,1.322952446,Desnutricion,-0.292335195,38.5015176,Normal,1.230115819,89.06731314,Obesidad
+170,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,3,-0.61153224,27.04236406,Normal,1.044418139,85.18540125,Normal,0.31990051,62.54781245,Normal
+171,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,3,-1.980150294,2.384332161,Desnutricion,1.424993705,92.29204895,Normal,-0.760079919,22.36034075,Normal
+172,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,2,-1.156638026,12.37101397,Normal,-0.363491113,35.81190254,Normal,-1.207824814,11.35573273,Bajo Peso
+173,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-3.916023556,0.004501073,Desnutricion,-0.738493351,23.01073531,Normal,-0.19040549,42.44956981,Normal
+174,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,0.075471034,53.00800283,Normal,1.39451014,91.84181952,Normal,-0.041640076,48.33928125,Normal
+175,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-0.482795043,31.46206353,Normal,0.881966511,81.11025411,Normal,0.54998209,70.88341709,Normal
+176,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,0.526706878,70.08014209,Normal,2.498187114,99.37584858,Piernas largas,-0.416956723,33.83550315,Normal
+177,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-1.144866611,12.61322084,Normal,1.196274325,88.42052376,Normal,-0.598330124,27.48098402,Normal
+178,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,3,-1.131731593,12.88736474,Normal,-0.010791217,49.5695011,Normal,-0.41065836,34.06615321,Normal
+179,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-0.617050987,26.86005478,Normal,1.316193314,90.59454163,Normal,0.736630497,76.93264583,Normal
+180,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-0.494226346,31.05731677,Normal,-0.917617252,17.94096412,Normal,-1.231193848,10.91251858,Bajo Peso
+181,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-1.464891819,7.147521754,Normal,0.454829503,67.53840483,Normal,-0.64787172,25.85339617,Normal
+182,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-0.596826087,27.53117496,Normal,0.160638573,56.38109636,Normal,-0.595114202,27.5883568,Normal
+183,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,3,-1.988948945,2.335341926,Desnutricion,1.816609103,96.53615057,Piernas largas,-0.160607765,43.62011694,Normal
+184,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-1.508635399,6.569599134,Normal,-0.550598574,29.09544434,Normal,-1.287951854,9.888136163,Bajo Peso
+185,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,1.390732237,91.78466809,Normal,-0.261467525,39.6865995,Normal,1.435793661,92.44694679,Obesidad
+186,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-1.396941768,8.12155415,Normal,-0.758027057,22.42173927,Normal,-1.179636777,11.90723546,Bajo Peso
+187,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,1.114124608,86.73871334,Normal,-0.567351051,28.52378497,Normal,0.912354301,81.9208881,Normal
+188,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-0.273781538,39.21262562,Normal,-0.305027297,38.0172681,Normal,0.952365691,82.95442234,Normal
+189,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-0.72304563,23.48259255,Normal,0.183475265,57.27874373,Normal,-0.428349619,33.41982995,Normal
+190,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-0.533801043,29.67395962,Normal,-0.203865069,41.92294713,Normal,0.298296743,61.72616552,Normal
+191,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,0.386664608,65.04977397,Normal,0.401423071,65.59456667,Normal,1.11484399,86.75413591,Obesidad
+192,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,3,-0.599286174,27.44910332,Normal,0.44612417,67.22462225,Normal,0.587673286,72.16241951,Normal
+193,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-1.252799071,10.51394199,Normal,-0.033432059,48.66650224,Normal,0.352458461,63.77527674,Normal
+194,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-2.091463049,1.824328774,Desnutricion,-2.29442245,1.088312243,Piernas cortas,0.739911315,77.03230959,Normal
+195,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-0.073568217,47.06769808,Normal,-1.110409442,13.34113157,Normal,1.174450307,87.98926475,Obesidad
+196,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-1.562662791,5.906596537,Normal,-0.610573017,27.07411454,Normal,0.759963376,77.63617615,Normal
+197,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-1.691004223,4.541799803,Desnutricion,0.139266989,55.53804125,Normal,-0.582516396,28.01094504,Normal
+198,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-0.80776215,20.9613759,Normal,0.60407013,72.71014913,Normal,-0.566035509,28.56848211,Normal
+199,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,4,-1.745031492,4.048969371,Desnutricion,-0.792975243,21.38961234,Normal,0.329262033,62.90211805,Normal
+200,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,3,0.436711563,66.88397289,Normal,0.088472834,53.52495626,Normal,0.924406271,82.23625845,Normal
+201,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,5,-0.820011292,20.6104835,Normal,-1.091800058,13.74604968,Normal,-0.440172441,32.99061091,Normal
+202,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,5,-1.038506236,14.95172167,Normal,-1.410780419,7.915468499,Normal,0.781341514,78.269917,Normal
+203,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,5,-0.539041906,29.49289697,Normal,-0.176157997,43.00849093,Normal,1.860372032,96.85835456,Obesidad
+204,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,4,-1.037773972,14.96876486,Normal,0.134153312,55.33593281,Normal,0.069539297,52.77198232,Normal
+205,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Femenino,5,0.271383073,60.69517901,Normal,-0.775915581,21.8899416,Normal,3.157525332,99.92044279,Obesidad
+206,"Esc. Jose Tapia Bujalance, Iztapalapa, CdMx",Masculino,3,0.924088212,82.2279805,Normal,-0.351002247,36.27933312,Normal,-0.117197074,45.33519428,Normal
+207,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Masculino,7,0.247840676,59.78711593,Normal,-0.370943484,35.53398131,Normal,0.88775573,81.26639196,Normal
+208,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Femenino,12,0.431056789,66.67864606,Normal,-0.17842542,42.91944436,Normal,1.566297169,94.13604682,Sobrepeso
+209,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Femenino,5,0.265101926,60.45345281,Normal,-1.385699141,8.291939533,Normal,-0.397345909,34.55561986,Normal
+210,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Masculino,7,1.183088512,88.16129649,Normal,-0.541731949,29.40015884,Normal,1.273904463,89.86513617,Sobrepeso
+211,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Masculino,10,1.614676499,94.68096153,Normal,1.228902986,89.04459091,Normal,2.479849592,99.34281093,Obesidad
+212,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Masculino,9,1.66332239,95.18760404,Alto,-1.442746338,7.454597027,Normal,2.125457508,98.32257719,Obesidad
+213,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Femenino,6,1.423247472,92.26677858,Normal,0.49404184,68.93616844,Normal,0.989903194,83.88892809,Normal
+214,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Femenino,10,1.776499995,96.21747286,Alto,-0.819498429,20.62510489,Normal,-0.386698513,34.94897084,Normal
+215,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Masculino,10,2.544919237,99.45348492,Alto,-1.265329672,10.28765872,Normal,3.478093314,99.9747503,Obesidad
+216,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Masculino,8,1.898868359,97.12091068,Alto,-0.834310051,20.20531447,Normal,3.857817702,99.9942798,Obesidad
+217,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Femenino,5,3.094993908,99.90159153,Alto,-0.006210564,49.75223593,Normal,0.035318949,51.40872933,Normal
+218,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Masculino,5,-0.611393196,27.04696531,Normal,-1.766689115,3.864015365,Piernas cortas,-1.004369708,15.76002227,Normal
+219,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Femenino,4,0.570119815,71.57017817,Normal,-6.951852369,1.8026E-10,Piernas cortas,0.145575162,55.78716116,Normal
+220,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Masculino,8,-0.401042833,34.41942944,Normal,-11.99628262,1.85808E-31,Piernas cortas,0.44932989,67.34031507,Normal
+221,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Masculino,8,-0.429196911,33.38899653,Normal,-3.263716368,0.054980593,Piernas cortas,0.126447889,55.03113019,Normal
+222,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Femenino,7,1.130061319,87.07748064,Normal,0.834380881,79.79668063,Normal,-0.6699056,25.14589849,Normal
+223,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Masculino,5,1.950031218,97.44138009,Alto,0.161794822,56.42662847,Normal,-0.062021559,47.52728318,Normal
+224,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Masculino,6,0.615222401,73.07960721,Normal,0.467779433,68.00288351,Normal,-0.64275023,26.01930912,Normal
+225,"Esc. Eufemio Zapata, Tlaquiltenango, Morelos",Femenino,5,0.502477433,69.23341388,Normal,-0.862979978,19.40742376,Normal,0.648587316,74.16974221,Normal
+226,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.076927593,53.06594267,Normal,-0.582558702,28.00952067,Normal,-0.271514848,39.29975407,Normal
+227,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.853777813,80.33859449,Normal,1.890883484,97.06800502,Piernas largas,-1.551576738,6.038176642,Bajo Peso
+228,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.864580531,19.36345311,Normal,-1.588086271,5.613341622,Normal,2.322153051,98.9887652,Obesidad
+229,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.089409151,46.43783757,Normal,-1.810943477,3.507480078,Piernas cortas,4.339435176,99.99928575,Obesidad
+230,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,0.025462903,51.01571311,Normal,-1.428748949,7.653820176,Normal,-0.592130421,27.68816286,Normal
+231,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.015680573,49.3744613,Normal,-1.53597609,6.227212227,Normal,0.59055736,72.25914789,Normal
+232,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,5,-0.126175023,44.97966911,Normal,-0.357248984,36.04527092,Normal,1.492635782,93.22337242,Obesidad
+233,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,5,0.464007933,67.86789689,Normal,-0.855078553,19.62538309,Normal,0.62261591,73.32315232,Normal
+234,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,5,-0.092904189,46.2989839,Normal,-1.539458849,6.184615836,Normal,0.882509429,81.12493085,Normal
+235,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,5,1.155235838,87.60030688,Normal,-0.794316843,21.35055005,Normal,0.642004723,73.95649418,Normal
+236,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.864580531,19.36345311,Normal,-1.529635887,6.305344061,Normal,0.344523907,63.47738401,Normal
+237,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,0.61888622,73.20043415,Normal,-0.877115577,19.02119324,Normal,1.690148491,95.45002251,Obesidad
+238,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.953879533,17.00723124,Normal,-1.47131088,7.060353113,Normal,2.087593198,98.1582727,Obesidad
+239,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.414955747,33.90871496,Normal,-1.823700644,3.409867071,Piernas cortas,-0.474392228,31.76101171,Normal
+240,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.545554958,29.26859465,Normal,-0.641232911,26.06856851,Normal,2.344081548,99.04629998,Obesidad
+241,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,0.613397865,73.01933513,Normal,-1.588569855,5.607876917,Normal,2.617889559,99.55762282,Obesidad
+242,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-2.520827431,0.585396273,Desnutricion,-2.196530895,1.402698316,Piernas cortas,1.013106615,84.44953806,Normal
+243,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,5,-0.196150463,42.22462,Normal,-1.689216036,4.558901854,Piernas cortas,2.468111246,99.3208595,Obesidad
+244,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-1.151601449,12.47424428,Normal,-1.578579653,5.721625232,Normal,-0.236507269,40.65195337,Normal
+245,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,0.212939403,58.4312886,Normal,-0.486952534,31.31459844,Normal,-0.029019319,48.84245915,Normal
+246,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,1.984147776,97.63803158,Alto,-1.35368581,8.791831852,Normal,1.639565997,94.9452281,Obesidad
+247,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.610284191,27.08367838,Normal,-2.50178749,0.617840358,Piernas cortas,0.773563883,78.04056314,Normal
+248,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,1.630628033,94.85155848,Normal,-1.01499525,15.50540459,Normal,-0.251192838,40.08325106,Normal
+249,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-1.170081099,12.0984167,Normal,-0.090025042,46.41336573,Normal,0.788052237,78.46669242,Normal
+250,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.566893194,71.46066258,Normal,-0.719651443,23.5869815,Normal,0.674737491,75.00787195,Normal
+251,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,0.710560376,76.13216477,Normal,-0.77962025,21.78072166,Normal,0.720831763,76.44934848,Normal
+252,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.291325882,61.45989527,Normal,-1.294652974,9.771998453,Normal,1.560884477,94.07244947,Obesidad
+253,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,5,0.562148217,71.29924805,Normal,-0.990608464,16.09384015,Normal,2.549208232,99.46016094,Obesidad
+254,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,5,0.844563774,80.08227788,Normal,0.796423209,78.71069536,Normal,0.787173439,78.44098282,Normal
+255,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.177429927,57.04146491,Normal,-1.684449788,4.604738788,Piernas cortas,-0.500174081,30.84762536,Normal
+256,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.10689349,45.7436739,Normal,-1.055329982,14.56372167,Normal,1.122827703,86.92446614,Obesidad
+257,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-1.258646406,10.40790386,Normal,-1.656088371,4.885196204,Piernas cortas,-1.375534635,8.448287781,Bajo Peso
+258,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.193184153,57.65926256,Normal,-1.737262746,4.117040207,Piernas cortas,0.654004975,74.34456999,Normal
+259,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,5,-0.530522101,29.78749948,Normal,0.624080252,73.37125588,Normal,-0.269478446,39.37807632,Normal
+260,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.366274071,35.70802878,Normal,-1.264446568,10.30348937,Normal,2.252660762,98.78597266,Obesidad
+261,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.277063011,60.91341384,Normal,-1.951740997,2.54844813,Piernas cortas,0.225478848,58.91966108,Normal
+262,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.758011046,22.42221851,Normal,-0.199042145,42.11148887,Normal,1.119227636,86.84784809,Obesidad
+263,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,5,-0.331616095,37.00895825,Normal,-1.151018246,12.48623647,Normal,-0.124169172,45.05906652,Normal
+264,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-1.279782384,10.03108406,Normal,-1.751464174,3.993299358,Piernas cortas,0.731546594,76.77773222,Normal
+265,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,1.759086399,96.07185826,Alto,1.352639057,91.19145158,Normal,-1.143857509,12.63413676,Bajo Peso
+266,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,2.162204861,98.46988055,Alto,-1.098947752,13.58954281,Normal,5.557832352,99.99999863,Obesidad
+267,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-1.63838409,5.067079794,Normal,-1.263277171,10.32447937,Normal,0.749442139,77.32046197,Normal
+268,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,0.066197248,52.63896063,Normal,-0.258752126,39.79132488,Normal,0.169394008,56.72566318,Normal
+269,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.664884631,25.30621432,Normal,-0.645147978,25.94156473,Normal,0.781912801,78.28670893,Normal
+270,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.233704909,40.76070383,Normal,-4.045139985,0.002614593,Piernas cortas,3.246706926,99.94162573,Obesidad
+271,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,1.306577697,90.43219123,Normal,-1.526879421,6.339549884,Normal,-0.128252675,44.89745078,Normal
+272,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.779616866,21.78082128,Normal,-2.64538473,0.407990415,Piernas cortas,1.257404499,89.56963996,Obesidad
+273,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,0.405813923,65.7560336,Normal,-0.551391773,29.06825696,Normal,0.391976184,65.24620946,Normal
+274,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.791075045,21.44501002,Normal,-0.643498026,25.99504975,Normal,-1.728203421,4.197588028,Desnutricion
+275,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.517208604,30.25052732,Normal,-0.733642006,23.15834762,Normal,-0.114875859,45.42717599,Normal
+276,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.313308025,37.70233269,Normal,-0.476601062,31.68231135,Normal,0.177551257,57.04622961,Normal
+277,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.996038945,84.03843884,Normal,-0.918833087,17.90914417,Normal,0.400078296,65.54505753,Normal
+278,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.706398963,23.99700327,Normal,-2.300577609,1.070775895,Piernas cortas,1.066907625,85.69932244,Obesidad
+279,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-1.681341757,4.634827578,Desnutricion,-1.656088371,4.885196204,Piernas cortas,0.655651986,74.39759657,Normal
+280,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.16602346,43.40692438,Normal,-0.689630876,24.52131728,Normal,1.828544406,96.62660562,Obesidad
+281,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-1.313306511,9.453984268,Normal,-0.882654026,18.87116145,Normal,-0.932328645,17.55833542,Normal
+282,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-2.391632045,0.838682453,Desnutricion,-2.242305818,1.247080701,Piernas cortas,1.400914885,91.93802365,Obesidad
+283,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-2.097992491,1.795290435,Desnutricion,-1.254831998,10.47698771,Normal,-0.346413682,36.45159221,Normal
+284,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-1.495707971,6.736488607,Normal,-1.294935319,9.767127158,Normal,0.033079327,51.31943358,Normal
+285,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.276314718,39.11531762,Normal,-1.227364128,10.98428813,Normal,1.181151502,88.12287284,Obesidad
+286,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-1.071044937,14.20746125,Normal,-1.934309027,2.653757199,Piernas cortas,-0.407460458,34.18349153,Normal
+287,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,0.421610471,66.33453191,Normal,-1.562981008,5.902853097,Normal,3.051065175,99.88598446,Obesidad
+288,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,0.012006945,50.4789963,Normal,0.154346582,56.13317649,Normal,0.02033071,50.81102212,Normal
+289,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-1.9150254,2.774463222,Desnutricion,-0.139396295,44.45685002,Normal,-1.522572559,6.393283969,Bajo Peso
+290,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,0.592983048,72.34037514,Normal,-0.139511702,44.45229047,Normal,-0.239860954,40.52190257,Normal
+291,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,0.03220501,51.28457197,Normal,-0.03512579,48.59897183,Normal,1.433785776,92.41832973,Obesidad
+292,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,0.03220501,51.28457197,Normal,-1.103172914,13.49760408,Normal,0.871772562,80.83337671,Normal
+293,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,0.336074783,63.15927631,Normal,-1.609073437,5.380014238,Normal,2.427722027,99.24030082,Obesidad
+294,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.580980188,28.06269032,Normal,-0.993508533,16.0231097,Normal,0.946935486,82.81641729,Normal
+295,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,0.677187928,75.08566369,Normal,-2.081008381,1.871656945,Piernas cortas,-0.615948694,26.8964191,Normal
+296,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-0.301666986,38.14529689,Normal,-0.406408782,34.22211341,Normal,0.820868938,79.4139537,Normal
+297,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.843719151,19.94131816,Normal,-0.439892338,33.00075428,Normal,-0.950471629,17.09363315,Normal
+298,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,0.669777287,74.85001127,Normal,-0.25843846,39.80342687,Normal,-0.471861487,31.85128295,Normal
+299,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,0.084356169,53.36133726,Normal,-1.368762156,8.553681692,Normal,0.583934346,72.03677578,Normal
+300,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-1.604533306,5.429827457,Normal,-0.908758968,18.1738685,Normal,-1.259247046,10.39705567,Bajo Peso
+301,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.065141729,47.40305781,Normal,-0.59597362,27.55964248,Normal,0.976637202,83.56256027,Normal
+302,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.072281138,52.88109124,Normal,-1.328411359,9.202112456,Normal,0.854361995,80.35477765,Normal
+303,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,0.42385207,66.41631494,Normal,0.505456995,69.3381052,Normal,0.335475735,63.1366877,Normal
+304,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.239828334,40.52316702,Normal,-1.123965086,13.05139189,Normal,2.057867951,98.01985945,Obesidad
+305,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,1.564148813,94.11086875,Normal,-1.506250352,6.600145898,Normal,2.794955948,99.74046606,Obesidad
+306,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-1.428747789,7.65383684,Normal,-1.078494251,14.04066229,Normal,0.860322557,80.51943691,Normal
+307,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.344650601,36.51785297,Normal,-1.353774591,8.790415126,Normal,0.085274509,53.39784218,Normal
+308,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.74681186,22.75885678,Normal,-2.137347451,1.628487107,Piernas cortas,2.5642003,99.48293077,Obesidad
+309,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.582471544,28.01245516,Normal,-1.893530381,2.914368598,Piernas cortas,0.286554968,61.27734504,Normal
+310,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.624963222,26.59975984,Normal,-1.601152599,5.467156232,Normal,0.051618504,52.05836627,Normal
+311,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,0.518102197,69.78065163,Normal,-0.77962025,21.78072166,Normal,2.838118184,99.77309812,Obesidad
+312,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-2.635914645,0.419554179,Desnutricion,0.179218923,57.11170971,Normal,-0.215687795,41.46155578,Normal
+313,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,1.564148813,94.11086875,Normal,-0.504525672,30.69460132,Normal,1.097552158,86.37999534,Obesidad
+314,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.555174368,28.93876995,Normal,-2.373479449,0.881068682,Piernas cortas,2.453604112,99.29283704,Obesidad
+315,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,2.046856589,97.96639163,Alto,-1.208378818,11.34507918,Normal,1.560365361,94.06632171,Obesidad
+316,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.673364835,74.96423926,Normal,-0.083948598,46.65486502,Normal,0.016083637,50.6416166,Normal
+317,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,2.035370566,97.90931996,Alto,0.364073482,64.20984307,Normal,0.029863273,51.19119518,Normal
+318,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-1.142563477,12.66099385,Normal,-0.776137438,21.88339203,Normal,0.357980536,63.98210602,Normal
+319,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,0.42385207,66.41631494,Normal,-0.77962025,21.78072166,Normal,0.678391484,75.12382463,Normal
+320,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.852503123,19.69674531,Normal,0.560925984,71.25760022,Normal,-0.88134459,18.90656692,Normal
+321,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.717410602,76.343961,Normal,-1.625648705,5.201220388,Normal,2.049132695,97.97754294,Obesidad
+322,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.181251241,42.80851881,Normal,-1.600256975,5.477079365,Normal,-0.947980765,17.15696233,Normal
+323,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-1.167701582,12.14635793,Normal,-1.745243685,4.047123,Piernas cortas,-0.432255344,33.27779197,Normal
+324,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,0.717532643,76.34772489,Normal,-1.23347825,10.86986932,Normal,0.704910715,75.95670993,Normal
+325,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.239828334,40.52316702,Normal,-0.316405764,37.58472713,Normal,0.161576611,56.41803615,Normal
+326,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.126258458,44.97636695,Normal,-0.996854377,15.94175996,Normal,0.577856504,71.83194984,Normal
+327,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-1.89284677,2.918912486,Desnutricion,-1.898365802,2.882395562,Piernas cortas,0.660638231,74.55778274,Normal
+328,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-1.460303653,7.210331928,Normal,-1.029848528,15.1540558,Normal,-2.217184368,1.330524769,Desnutricion
+329,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.344650601,36.51785297,Normal,-1.771048709,3.827630112,Piernas cortas,0.570767749,71.59214564,Normal
+330,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,0.400517673,65.56123654,Normal,-0.908536382,18.17974503,Normal,-1.348137317,8.880711047,Bajo Peso
+331,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.797426045,21.26018189,Normal,0.453631068,67.49528059,Normal,-1.554307462,6.005554727,Bajo Peso
+332,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.121818255,54.84785217,Normal,-1.381177685,8.361216712,Normal,0.070644535,52.81596676,Normal
+333,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.499495323,30.87152403,Normal,-2.444939304,0.724382606,Piernas cortas,1.489942238,93.18802879,Obesidad
+334,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.364467068,64.22453694,Normal,-0.992147206,16.05628609,Normal,-0.735813431,23.09221231,Normal
+335,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.226733587,41.03154544,Normal,0.266621849,60.51198343,Normal,-0.401364744,34.40758014,Normal
+336,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,0.331010291,62.96816437,Normal,-0.569867392,28.43838213,Normal,-0.817584352,20.67972829,Normal
+337,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.749249782,22.68533346,Normal,-1.433214268,7.589830666,Normal,2.424870619,99.23430783,Obesidad
+338,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.714288741,23.75243264,Normal,-1.596623163,5.517486623,Normal,0.227742086,59.0076624,Normal
+339,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.797426045,21.26018189,Normal,-2.396832214,0.826874724,Piernas cortas,3.142102333,99.9161303,Obesidad
+340,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.808989378,79.07393719,Normal,-1.096746197,13.63761778,Normal,-0.670461861,25.12817056,Normal
+341,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,1.688359167,95.43288481,Alto,-1.538794064,6.192728979,Normal,3.972463598,99.99644334,Obesidad
+342,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.430107876,33.35585856,Normal,-0.176359101,43.00059168,Normal,0.958869454,83.11877428,Normal
+343,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-1.435605428,7.555732472,Normal,-1.752210594,3.986880133,Piernas cortas,0.587101781,72.14323243,Normal
+344,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.621939811,73.30092768,Normal,-1.278641909,10.05115923,Normal,3.302349498,99.95206074,Obesidad
+345,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.621939811,73.30092768,Normal,-1.38515272,8.300288711,Normal,0.871120914,80.8155932,Normal
+346,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-1.146926344,12.57060318,Normal,0.384800829,64.98075076,Normal,-0.348673419,36.36672509,Normal
+347,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-1.035185359,15.02911775,Normal,-0.42285659,33.61999481,Normal,-1.322995407,9.291845255,Bajo Peso
+348,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,0.156664826,56.22454952,Normal,-1.859823555,3.145524684,Piernas cortas,2.221139751,98.68292513,Obesidad
+349,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-1.243395394,10.68610834,Normal,-0.623453434,26.64932969,Normal,1.411095307,92.08917432,Obesidad
+350,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,0.03220501,51.28457197,Normal,0.361519415,64.11444031,Normal,1.070160286,85.77264164,Obesidad
+351,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,0.711277447,76.15438377,Normal,-0.283978507,38.82134258,Normal,2.777908604,99.72644998,Obesidad
+352,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.580980188,28.06269032,Normal,-1.65669294,4.879078557,Piernas cortas,0.632340871,73.6417919,Normal
+353,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-1.150762203,12.49150392,Normal,-0.850303788,19.75781055,Normal,-0.01354559,49.45962568,Normal
+354,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-0.105153393,45.81270464,Normal,-1.592270694,5.566194745,Normal,-0.122651069,45.11917064,Normal
+355,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-1.150762203,12.49150392,Normal,-1.407174873,7.968777021,Normal,-0.43116348,33.31747529,Normal
+356,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-0.00807852,49.67771717,Normal,-1.408046659,7.955862719,Normal,2.219598982,98.67769993,Obesidad
+357,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-0.745799516,22.78942661,Normal,-1.477771073,6.973453167,Normal,-0.497300764,30.94884866,Normal
+358,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.89301575,18.59243691,Normal,0.339305097,63.28100482,Normal,-0.493318335,31.08938375,Normal
+359,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.343740241,36.55208227,Normal,-0.058898565,47.65164503,Normal,1.119555191,86.85483203,Obesidad
+360,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-2.024099696,2.147994743,Desnutricion,-1.13537802,12.81084825,Normal,0.821083937,79.42007707,Normal
+361,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,0.661275385,74.57821381,Normal,-0.437332486,33.09351194,Normal,0.333893817,63.0770157,Normal
+362,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.178956045,42.89861077,Normal,-2.250332203,1.22139326,Piernas cortas,1.675215099,95.3053982,Obesidad
+363,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,1.023264444,84.69085848,Normal,-0.544079637,29.31933362,Normal,3.135599217,99.9142483,Obesidad
+364,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.090649703,46.38854687,Normal,-1.103011151,13.50111612,Normal,0.333735141,63.0710285,Normal
+365,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,1.276615799,89.91310393,Normal,-0.599831384,27.43093076,Normal,1.896292045,97.10392812,Obesidad
+366,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.945190641,17.22807783,Normal,-1.089975223,13.78620293,Normal,0.277911644,60.94599073,Normal
+367,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-0.653896522,25.65892374,Normal,-0.867210051,19.2913465,Normal,0.31811127,62.47997326,Normal
+368,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,2.052844209,97.99561553,Alto,-1.090385843,13.77716077,Normal,2.567558276,99.48791214,Obesidad
+369,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-0.653896522,25.65892374,Normal,0.041270595,51.64599127,Normal,-1.253812594,10.49550653,Bajo Peso
+370,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,0.847331374,80.1594778,Normal,-0.7838726,21.65574343,Normal,1.410756053,92.08417217,Obesidad
+371,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.1735293,43.11176995,Normal,-1.65669294,4.879078557,Piernas cortas,0.892131889,81.38388779,Normal
+372,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-1.150762203,12.49150392,Normal,-2.032431895,2.105497597,Piernas cortas,0.523336588,69.96299782,Normal
+373,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.210824943,58.34880629,Normal,-0.918833087,17.90914417,Normal,2.329846615,99.00928703,Obesidad
+374,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.007279102,49.70960839,Normal,-2.277950493,1.136476371,Piernas cortas,2.870075648,99.7948132,Obesidad
+375,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.52230993,30.07272781,Normal,-1.502497428,6.648434582,Normal,-0.658968148,25.49581113,Normal
+376,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,1.283365926,90.03180471,Normal,0.29652298,61.65846398,Normal,-0.194972546,42.27072201,Normal
+377,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,0.130116276,55.17627836,Normal,-0.533214089,29.69426948,Normal,0.282173931,61.10949269,Normal
+378,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-1.109254978,13.36601007,Normal,-45.33092648,0,Piernas cortas,2.548888716,99.45966611,Obesidad
+379,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,-0.244820299,40.3297788,Normal,-0.939955733,17.36201337,Normal,1.977222945,97.59917825,Obesidad
+380,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,-0.244820299,40.3297788,Normal,-0.83662861,20.14006793,Normal,0.315540249,62.38242518,Normal
+381,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,-1.211089075,11.29306341,Normal,-2.315808792,1.02843555,Piernas cortas,-0.448741806,32.68089614,Normal
+382,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,0.321473607,62.6074245,Normal,-0.995567354,15.97302018,Normal,0.295178673,61.60713036,Normal
+383,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,0.5736877,71.69104235,Normal,-2.185429817,1.442867333,Piernas cortas,0.531651749,70.2516392,Normal
+384,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,0.56744407,71.47937422,Normal,-0.283933872,38.82305291,Normal,-1.188438331,11.73303812,Bajo Peso
+385,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.826739787,20.41922826,Normal,-1.344740349,8.935454987,Normal,1.904756154,97.15941121,Obesidad
+386,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,-1.045234146,14.79573827,Normal,-0.738044123,23.02438187,Normal,-0.668607003,25.1873102,Normal
+387,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,0.541509337,70.59217183,Normal,-0.198405132,42.13640512,Normal,1.726600143,95.78802499,Obesidad
+388,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,0.5736877,71.69104235,Normal,-1.40403422,8.015432986,Normal,1.141622681,87.3194554,Obesidad
+389,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,-0.162813536,43.5332625,Normal,-0.183220901,42.73123476,Normal,0.364748939,64.23505883,Normal
+390,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,0.658822598,74.49951528,Normal,0.012234515,50.48807434,Normal,-1.207815653,11.35590895,Bajo Peso
+391,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.655930142,25.59345367,Normal,-1.083733218,13.92415513,Normal,0.587835799,72.16787437,Normal
+392,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,0.238314089,59.41812527,Normal,-1.199096098,11.52452906,Normal,1.371215652,91.48461299,Obesidad
+393,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,0.233144262,59.21753073,Normal,-0.136882162,44.55619695,Normal,0.663039102,74.63472444,Normal
+394,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,9,-0.099108936,46.05258885,Normal,-2.063732129,1.952156063,Piernas cortas,1.313153452,90.54343773,Obesidad
+395,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,0.150710469,55.98979429,Normal,0.251709012,59.93670047,Normal,0.390564834,65.19405382,Normal
+396,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.032823471,51.30923196,Normal,-0.57759661,28.1768248,Normal,2.503003992,99.38427922,Obesidad
+397,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,9,-0.190972656,42.42735081,Normal,-1.573599312,5.779005623,Normal,1.851225021,96.79314062,Obesidad
+398,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,9,0.601200289,72.61467041,Normal,-1.740568978,4.087957967,Piernas cortas,2.748884576,99.7010078,Obesidad
+399,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,-2.016313055,2.188362534,Desnutricion,-2.226128397,1.300279117,Piernas cortas,-0.519176851,30.18187103,Normal
+400,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,0.316076731,62.40278659,Normal,-1.64140417,5.035677246,Normal,2.724636757,99.67813867,Obesidad
+401,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,-0.810361848,20.88661194,Normal,-1.272805715,10.15434963,Normal,-0.530515043,29.7877441,Normal
+402,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,9,-2.109789524,1.743824459,Desnutricion,-1.087859825,13.83284972,Normal,-0.596986719,27.52581239,Normal
+403,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-1.236087688,10.82129854,Normal,-0.882654026,18.87116145,Normal,-0.188913675,42.50802378,Normal
+404,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,0.724517035,76.56258135,Normal,-0.6619469,25.40026266,Normal,-0.027181814,48.91573603,Normal
+405,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,9,-1.287146281,9.90216534,Normal,-0.496415163,30.98007646,Normal,-0.587520645,27.84270445,Normal
+406,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,9,-0.731186094,23.23327464,Normal,-1.682645148,4.622190305,Piernas cortas,2.371156613,99.11337422,Obesidad
+407,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,-0.245831179,40.29064603,Normal,-2.302546499,1.065218616,Piernas cortas,2.620919873,99.56153565,Obesidad
+408,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,8,0.414339828,66.06873752,Normal,-0.974346483,16.49422662,Normal,0.069114943,52.75509367,Normal
+409,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-0.115678061,45.39538473,Normal,-0.640568501,26.09015352,Normal,2.022663361,97.84460666,Obesidad
+410,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,9,-0.554277754,28.96943862,Normal,-1.95734131,2.515367686,Piernas cortas,0.607164366,72.8129081,Normal
+411,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,10,-0.127407774,44.93088319,Normal,-1.341881584,8.981719687,Normal,1.930156161,97.32062542,Obesidad
+412,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,10,-0.299543666,38.22626299,Normal,0.145985893,55.80337377,Normal,1.817639094,96.54403439,Obesidad
+413,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,10,0.369519878,64.41298703,Normal,-1.525110938,6.361571469,Normal,0.451272907,67.41035656,Normal
+414,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,-0.175193754,43.04636962,Normal,-2.423336757,0.768933163,Piernas cortas,2.188482047,98.56827462,Obesidad
+415,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,10,1.60227402,94.5452486,Normal,-26.02467683,1.3019E-147,Piernas cortas,2.844243217,99.77741474,Obesidad
+416,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,-1.511235989,6.536416809,Normal,-1.34625184,8.911065593,Normal,-0.995997747,15.962562,Normal
+417,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,0.220623104,58.73070452,Normal,-0.458381097,32.33393351,Normal,0.381653113,64.86406589,Normal
+418,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,9,-2.214701944,1.339026469,Desnutricion,-2.577943517,0.496951214,Piernas cortas,0.341968108,63.38125533,Normal
+419,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,-0.546955089,29.22047934,Normal,-1.337226317,9.057438701,Normal,0.691406489,75.53449362,Normal
+420,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,0.782649698,78.30835757,Normal,-0.578383126,28.15027418,Normal,1.567712827,94.15259166,Obesidad
+421,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,0.130044207,55.17342742,Normal,-1.809670348,3.517346176,Piernas cortas,2.237866335,98.73851135,Obesidad
+422,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,-0.990156685,16.10487701,Normal,-0.949118787,17.12801001,Normal,-0.140032594,44.43171188,Normal
+423,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,1.105066777,86.54346726,Normal,-1.245291557,10.65122991,Normal,1.913591081,97.21637872,Obesidad
+424,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,0.874174483,80.89883799,Normal,-0.588441647,27.81179452,Normal,-1.280645371,10.01591281,Bajo Peso
+425,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,0.439539969,66.98648361,Normal,-0.630062264,26.43269239,Normal,-0.939607126,17.37095599,Normal
+426,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,0.069264248,52.76103582,Normal,-1.158628302,12.33038637,Normal,0.481453976,68.49030587,Normal
+427,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,1.090787014,86.23166941,Normal,-1.288058944,9.886272271,Normal,2.236833228,98.7351379,Obesidad
+428,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,10,-0.17860703,42.91231369,Normal,-0.88567679,18.78958593,Normal,2.064395792,98.05098975,Obesidad
+429,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,10,-0.648182585,25.84334323,Normal,-0.296614141,38.33805569,Normal,0.208248818,58.24826535,Normal
+430,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,1.304376611,90.39473971,Normal,-0.581652568,28.04003635,Normal,2.823945406,99.76281768,Obesidad
+431,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,0.506251226,69.36598511,Normal,-0.999642698,15.8741726,Normal,1.799886052,96.40606838,Obesidad
+432,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,2.054157803,98.00197895,Alto,-1.222001828,11.08534678,Normal,2.408297605,99.19864449,Obesidad
+433,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,-0.165305082,43.43519295,Normal,-1.050576427,14.67265861,Normal,1.260091685,89.61818553,Obesidad
+434,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,10,0.410469762,65.92693097,Normal,-1.181126895,11.87761585,Normal,0.935282808,82.51787137,Normal
+435,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,10,-1.077937496,14.05308253,Normal,-1.069435599,14.24367167,Normal,-0.548452149,29.16907385,Normal
+436,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,-0.911738179,18.09532804,Normal,-1.651804978,4.928715677,Piernas cortas,0.074739738,52.97891052,Normal
+437,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,-0.088809469,46.4616666,Normal,-0.569953142,28.43547398,Normal,-0.785930228,21.59541823,Normal
+438,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,10,-1.728726789,4.192900221,Desnutricion,-0.795548245,21.31473293,Normal,-0.16028054,43.63300437,Normal
+439,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,-0.079217637,46.84297582,Normal,-2.609697204,0.453111982,Piernas cortas,2.096341437,98.19740433,Obesidad
+440,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,1.53548456,93.76675766,Normal,-1.490943364,6.798818259,Normal,1.537971819,93.79722473,Obesidad
+441,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,-0.973132023,16.52438451,Normal,-0.253097349,40.00964936,Normal,-0.258105601,39.81627047,Normal
+442,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,10,-0.02871862,48.85445031,Normal,-1.211538694,11.28445071,Normal,2.388116658,99.15325174,Obesidad
+443,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,0.131845883,55.24469031,Normal,-0.491553951,31.1517352,Normal,1.945608423,97.41491028,Obesidad
+444,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,10,0.712941861,76.20591329,Normal,-0.221321356,41.24211112,Normal,0.310135178,62.17709191,Normal
+445,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,0.949615344,82.88461304,Normal,-1.329879731,9.177895038,Normal,1.305149865,90.4079089,Obesidad
+446,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,1.097518987,86.37927074,Normal,-0.848356807,19.81196448,Normal,2.826184518,99.7644694,Obesidad
+447,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,11,1.166731771,87.8340646,Normal,-1.056742922,14.53144652,Normal,2.150917317,98.42586368,Obesidad
+448,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,-0.097208853,46.12802687,Normal,-0.421789741,33.65892472,Normal,-1.426485296,7.686415408,Bajo Peso
+449,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,10,0.0929983,53.70475443,Normal,-0.990699263,16.09162255,Normal,-0.257474804,39.84061315,Normal
+450,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,-0.174807237,43.06155506,Normal,-1.589885679,5.59302882,Normal,1.491128887,93.20361702,Obesidad
+451,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,-3.87709539,0.005285546,Desnutricion,-1.49550056,6.739192692,Normal,0.084638098,53.37254449,Normal
+452,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,-0.834982124,20.18638868,Normal,-0.337109553,36.80171582,Normal,0.013394366,50.53434193,Normal
+453,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,11,0.576522372,71.78689238,Normal,-1.520530748,6.41888185,Normal,1.753380631,96.02316533,Obesidad
+454,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,10,1.155662523,87.60903885,Normal,-0.943360731,17.27482109,Normal,-0.833712901,20.22213932,Normal
+455,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-1.724432997,4.231485252,Desnutricion,-0.719651443,23.5869815,Normal,-0.362649726,35.84332798,Normal
+456,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-1.424918396,7.709039567,Normal,-1.35807907,8.721929792,Normal,-1.121935392,13.09449555,Bajo Peso
+457,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.479144773,68.40821801,Normal,-0.979596063,16.36427744,Normal,1.519874144,93.57286951,Obesidad
+458,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,5,0.111325727,54.43209725,Normal,-0.474428326,31.75972489,Normal,0.695646564,75.66749012,Normal
+459,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-1.902926887,2.852504306,Desnutricion,-50.09241543,0,Piernas cortas,0.029586439,51.18015595,Normal
+460,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,5,-0.299793845,38.21672052,Normal,0.829802332,79.66747239,Normal,-0.006656734,49.73443671,Normal
+461,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,5,-1.223438943,11.0581976,Normal,-0.894748651,18.54607326,Normal,1.275041037,89.88526413,Obesidad
+462,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,5,-0.713302597,23.78292653,Normal,-0.002450881,49.90222408,Normal,1.25858933,89.59106486,Obesidad
+463,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,5,-0.297134104,38.3182064,Normal,0.220179373,58.71342697,Normal,-0.04630063,48.15353187,Normal
+464,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.26302339,39.62662754,Normal,-0.141657326,44.36753418,Normal,0.235752838,59.31877669,Normal
+465,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.160727566,43.61539885,Normal,-1.206749453,11.37643238,Normal,0.38171724,64.86644445,Normal
+466,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.562142558,28.70094471,Normal,-2.161049556,1.534575581,Piernas cortas,1.033564993,84.93302139,Normal
+467,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.908394898,18.183481,Normal,-1.893530381,2.914368598,Piernas cortas,0.232126201,59.17800025,Normal
+468,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.272130791,39.27607273,Normal,-1.086921368,13.85357811,Normal,1.145147684,87.39260071,Obesidad
+469,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-1.211225247,11.29045447,Normal,-0.016662606,49.33528895,Normal,0.453712684,67.49821818,Normal
+470,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.208791072,41.73056705,Normal,0.037636447,51.50112259,Normal,-0.0057268,49.771535,Normal
+471,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.177429927,57.04146491,Normal,-1.987911899,2.341071727,Piernas cortas,2.638646734,99.58381165,Obesidad
+472,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.395980823,34.60595878,Normal,-1.588086271,5.613341622,Normal,3.622551284,99.98541442,Obesidad
+473,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,5,1.458537967,92.76538409,Normal,-0.608521408,27.1420856,Normal,0.159831029,56.34929095,Normal
+474,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.812682843,20.81999603,Normal,-1.208378818,11.34507918,Normal,1.26339662,89.67766609,Obesidad
+475,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-2.964171261,0.151749663,Desnutricion,-2.447813573,0.718630001,Piernas cortas,3.244872334,99.94124835,Obesidad
+476,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,5,-0.196150463,42.22462,Normal,0.009013215,50.35957037,Normal,0.302628924,61.89136653,Normal
+477,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,0.103506991,54.12196993,Normal,-1.618568994,5.277001543,Normal,1.002709549,84.19994893,Normal
+478,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.939749988,17.36729087,Normal,-1.51132431,6.535292157,Normal,0.161918351,56.43149243,Normal
+479,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,10,-1.193462364,11.63441716,Normal,-1.140554367,12.70277081,Normal,0.809668989,79.0934777,Normal
+480,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.588146599,27.82169488,Normal,-1.181548553,11.86924388,Normal,1.172203397,87.94422976,Obesidad
+481,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,6,-0.0843119,46.64042256,Normal,-0.767938325,22.12619135,Normal,0.239335305,59.45772045,Normal
+482,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.430107876,33.35585856,Normal,-0.33647166,36.82576096,Normal,-0.102131593,45.93261122,Normal
+483,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,0.711569374,76.16342612,Normal,-0.069292759,47.23782946,Normal,1.003046319,84.20807434,Normal
+484,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.345415786,63.51090945,Normal,-0.302412938,38.11686465,Normal,-0.562089024,28.7027683,Normal
+485,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-1.867338953,3.092713451,Desnutricion,-1.865852512,3.103100156,Piernas cortas,1.962301704,97.51363155,Obesidad
+486,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,0.059529735,52.37349086,Normal,-1.513601983,6.506340891,Normal,-1.066620901,14.30715291,Bajo Peso
+487,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.182560965,57.24287425,Normal,-0.961505312,16.81490779,Normal,1.098229377,86.39478293,Obesidad
+488,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,0.641426285,73.93771201,Normal,-1.052102191,14.63763335,Normal,0.907143312,81.78344916,Normal
+489,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.986788795,16.18730945,Normal,-0.767704072,22.13315081,Normal,0.646152287,74.0909632,Normal
+490,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.297632567,38.29918079,Normal,-1.379905058,8.380793955,Normal,0.1563526,56.21224512,Normal
+491,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.013537113,49.45996382,Normal,-1.436835124,7.538242382,Normal,-0.258793879,39.78971406,Normal
+492,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.805876008,21.01571731,Normal,-0.476601062,31.68231135,Normal,-0.547347356,29.20700575,Normal
+493,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.908394898,18.183481,Normal,-0.820322775,20.60160631,Normal,-0.17502505,43.0529975,Normal
+494,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.402351703,34.37126046,Normal,-1.802609013,3.572482027,Piernas cortas,0.552706017,70.97676336,Normal
+495,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,0.246052258,59.71791101,Normal,-0.881254099,18.9090152,Normal,-1.481927684,6.91797689,Bajo Peso
+496,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-0.444376341,32.83852578,Normal,-0.628363882,26.48827961,Normal,1.157315038,87.6428164,Obesidad
+497,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.025343573,48.98904594,Normal,-1.398777403,8.093987234,Normal,-0.399947206,34.45977009,Normal
+498,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.74681186,22.75885678,Normal,-48.35134433,0,Piernas cortas,1.239092647,89.23444052,Obesidad
+499,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.779616866,21.78082128,Normal,-2.519022039,0.588406453,Piernas cortas,0.412580442,66.00429835,Normal
+500,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.19746528,42.17317244,Normal,-1.082266259,13.95671169,Normal,4.02632086,99.99716718,Obesidad
+501,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-1.167302684,12.15440775,Normal,-1.14059487,12.70192765,Normal,-0.591872364,27.69680305,Normal
+502,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-2.00031227,2.273327744,Desnutricion,0.567399024,71.47784436,Normal,-0.563480764,28.65537775,Normal
+503,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.10957877,45.63717242,Normal,-0.831187333,20.29339047,Normal,0.167672865,56.65796778,Normal
+504,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-0.378564103,35.25057915,Normal,-0.872691831,19.14155357,Normal,-0.472818291,31.81714118,Normal
+505,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Femenino,7,-1.12283107,13.07546236,Normal,-3.39648052,0.034129208,Piernas cortas,-0.993464902,16.02417233,Normal
+506,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,8,-1.087087477,13.84990759,Normal,-0.597014036,27.52490048,Normal,0.136738401,55.43812125,Normal
+507,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-0.263137648,39.62222435,Normal,-0.528275228,29.86541614,Normal,-0.070013382,47.20915043,Normal
+508,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,6,-2.255485527,1.205143485,Desnutricion,0.024519138,50.97807406,Normal,-0.612036737,27.0256726,Normal
+509,"Esc. Emiliano Zapata, Naucalpan, Edo Mex",Masculino,7,-1.744259172,4.055695377,Desnutricion,-0.820178661,20.60571325,Normal,-0.692521173,24.43050472,Normal
+510,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,0.315061387,62.36424773,Normal,-0.465596254,32.07522626,Normal,-1.449162229,7.364614148,Bajo Peso
+511,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,0.315061387,62.36424773,Normal,-1.206749453,11.37643238,Normal,-0.985254844,16.22494536,Normal
+512,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,0.120584158,54.79897913,Normal,-1.15153185,12.475675,Normal,1.00778594,84.32213813,Normal
+513,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,0.103506991,54.12196993,Normal,-0.23105441,40.86362662,Normal,0.038892994,51.5512149,Normal
+514,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,1.042601446,85.14335404,Normal,-1.796792872,3.618425421,Piernas cortas,-0.418046152,33.79566869,Normal
+515,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-0.470514655,31.89936831,Normal,-0.086389203,46.5578515,Normal,0.867848741,80.72614283,Normal
+516,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,0.013537901,50.54006762,Normal,-1.237262452,10.79948313,Normal,-0.786986699,21.56448261,Normal
+517,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-0.160727566,43.61539885,Normal,-2.356504093,0.922393217,Piernas cortas,3.517659889,99.9782315,Obesidad
+518,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-1.041890404,14.87312469,Normal,-1.096426274,13.64461354,Normal,0.199794871,57.91794934,Normal
+519,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-1.000941079,15.84276475,Normal,-48.37978333,0,Piernas cortas,0.076238239,53.03852194,Normal
+520,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,5,3.017884105,99.87272688,Alto,-0.347211343,36.42162751,Normal,0.324885203,62.7366022,Normal
+521,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-1.151601449,12.47424428,Normal,-3.522647607,0.021362952,Piernas cortas,-0.577602196,28.1766362,Normal
+522,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-0.401901572,34.38782329,Normal,-2.545656562,0.545362202,Piernas cortas,0.611859929,72.96847825,Normal
+523,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,1.417468401,92.18269867,Normal,-1.297082976,9.730131927,Normal,0.376902766,64.68770673,Normal
+524,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,0.659565258,74.52335723,Normal,-1.463757115,7.163016188,Normal,3.118898423,99.90923573,Obesidad
+525,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,5,-0.426331152,33.49332807,Normal,-0.930470978,17.60636418,Normal,-0.049975978,48.00707657,Normal
+526,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,5,0.733978035,76.85189374,Normal,-2.529978811,0.570347076,Piernas cortas,-1.032492598,15.09207066,Normal
+527,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,5,0.464007933,67.86789689,Normal,-0.366609558,35.69551387,Normal,1.75190452,96.01048864,Obesidad
+528,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,5,0.464007933,67.86789689,Normal,-0.965914751,16.70434203,Normal,1.291892467,90.18028066,Obesidad
+529,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,1.024833037,84.72790125,Normal,0.41442139,66.07172369,Normal,-2.600389816,0.465589585,Desnutricion
+530,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-0.354305268,36.15550599,Normal,-0.402024219,34.38331011,Normal,-1.138224427,12.75133906,Bajo Peso
+531,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-0.068306637,47.27707704,Normal,-0.141657326,44.36753418,Normal,-1.52439051,6.370559463,Bajo Peso
+532,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-0.171989525,43.17228819,Normal,-1.032306938,15.0964176,Normal,1.643893343,94.99008823,Obesidad
+533,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-0.18446056,42.68260822,Normal,-0.479422973,31.58188769,Normal,1.538024295,93.79786627,Obesidad
+534,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-0.187023599,42.58210651,Normal,-1.208166766,11.34915612,Normal,-0.443868739,32.85687436,Normal
+535,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,5.027575401,99.99997516,Alto,-0.564464211,28.6219125,Normal,1.133898033,87.15813387,Obesidad
+536,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-1.410847866,7.914473865,Normal,3.41418875,99.96801388,Piernas largas,2.566183611,99.48587809,Obesidad
+537,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-0.196882203,42.19598605,Normal,-1.778210685,3.768462936,Piernas cortas,1.616709268,94.70294738,Obesidad
+538,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,0.717532643,76.34772489,Normal,0.574180571,71.70771924,Normal,-0.291570043,38.53076915,Normal
+539,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,5,0.266832368,60.52008843,Normal,-0.847706028,19.83008543,Normal,1.878645691,96.9853556,Obesidad
+540,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-2.290082291,1.100827337,Desnutricion,-1.237262452,10.79948313,Normal,0.493174047,68.90551929,Normal
+541,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,5,1.24205341,89.28915718,Normal,-0.926672734,17.70482392,Normal,1.363807499,91.36859202,Obesidad
+542,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-0.470514655,31.89936831,Normal,-0.827518393,20.39716507,Normal,0.920179018,82.12603916,Normal
+543,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-0.896350944,18.50326792,Normal,0.092043212,53.66681463,Normal,-0.233277535,40.77729509,Normal
+544,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,5,0.625680322,73.42376786,Normal,-0.580821564,28.06803601,Normal,0.69627218,75.6870804,Normal
+545,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,5,-0.092904189,46.2989839,Normal,-0.897182143,18.48108662,Normal,0.469407307,68.06107368,Normal
+546,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-0.610284191,27.08367838,Normal,-0.963252343,16.77104515,Normal,0.193080761,57.65521403,Normal
+547,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,5,0.519785558,69.8393477,Normal,-1.082585813,13.94961536,Normal,-0.301424579,38.15453771,Normal
+548,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-0.682828242,24.73576909,Normal,-0.767938325,22.12619135,Normal,0.903979274,81.69968041,Normal
+549,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,5,0.733978035,76.85189374,Normal,-0.390004619,34.82665657,Normal,1.321791404,90.68811893,Obesidad
+550,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,0.57514134,71.74021446,Normal,-1.353774591,8.790415126,Normal,2.443709432,99.27314353,Obesidad
+551,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,5,-0.607065855,27.19036046,Normal,-0.029251752,48.83319034,Normal,-1.209208864,11.32913066,Bajo Peso
+552,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,5,0.759844091,77.63261079,Normal,-0.296186198,38.35439442,Normal,-0.34326806,36.56984035,Normal
+553,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,5,1.249350845,89.42316107,Normal,0.37007528,64.43367998,Normal,-0.944256972,17.25191739,Normal
+554,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-2.674497549,0.374206616,Desnutricion,-1.009680918,15.63240938,Normal,-0.581855386,28.03320469,Normal
+555,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,5,-1.522513599,6.394022035,Normal,0.447792448,67.28485028,Normal,1.971733598,97.5679987,Obesidad
+556,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-0.024298858,49.03071118,Normal,-1.359254942,8.703290837,Normal,-0.061293729,47.55626425,Normal
+557,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-0.750927631,22.63481051,Normal,-1.507542193,6.583586864,Normal,-0.746897081,22.75628439,Normal
+558,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-0.005938354,49.76309536,Normal,-1.47863815,6.961852534,Normal,3.355615959,99.96040577,Obesidad
+559,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,0.757837043,77.57257284,Normal,-0.270640548,39.33337532,Normal,2.070210203,98.07836679,Obesidad
+560,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,1.712556289,95.66028997,Alto,-0.248319275,40.19436934,Normal,0.890876525,81.35022922,Normal
+561,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,1.296629377,90.26206302,Normal,-0.406753654,34.20944648,Normal,1.438750111,92.4889332,Obesidad
+562,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,-0.112675714,45.51438279,Normal,-0.837547181,20.11425342,Normal,1.504659768,93.37942142,Obesidad
+563,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,-0.082224862,46.72339519,Normal,-1.190620324,11.69013346,Normal,-1.512368259,6.522010256,Bajo Peso
+564,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-1.360380451,8.685478076,Normal,-1.316833367,9.394724288,Normal,1.769982761,96.16349937,Obesidad
+565,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,-0.098058676,46.09428505,Normal,-1.083198567,13.93601479,Normal,0.20331437,58.05553378,Normal
+566,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,1.744237213,95.94411326,Alto,-0.423289603,33.60419896,Normal,2.302333892,98.9341825,Obesidad
+567,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,0.94899947,82.86895592,Normal,-1.423097272,7.735397952,Normal,2.023179895,97.84726981,Obesidad
+568,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-0.390065963,34.82438853,Normal,0.251651929,59.93449419,Normal,-0.848463431,19.80899649,Normal
+569,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-1.794600882,3.635865628,Desnutricion,-1.242435449,10.70379717,Normal,1.633722815,94.88414673,Obesidad
+570,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,1.133901957,87.1582162,Normal,0.441403264,67.053946,Normal,0.029890556,51.1922831,Normal
+571,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,-1.818406167,3.450103822,Desnutricion,-0.286398829,38.72863358,Normal,0.331326658,62.98011214,Normal
+572,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-0.159831532,43.65068924,Normal,-1.023224635,15.31008239,Normal,0.167844017,56.66470035,Normal
+573,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,2.057997306,98.0204804,Alto,-1.976122078,2.407047624,Piernas cortas,1.409781898,92.06979533,Obesidad
+574,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-0.697041604,24.28883787,Normal,0.242356692,59.57481055,Normal,1.58079825,94.30379126,Obesidad
+575,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,0.024987538,50.99675482,Normal,0.63476514,73.72091988,Normal,1.238222707,89.2183253,Obesidad
+576,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,-2.22067512,1.318648689,Desnutricion,1.646624265,95.01823502,Piernas largas,-0.8048857,21.04428205,Normal
+577,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,0.133110782,55.29471158,Normal,-1.359179093,8.704492226,Normal,0.304380489,61.95809846,Normal
+578,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,0.90340801,81.68453047,Normal,0.266621849,60.51198343,Normal,1.79856158,96.39559703,Obesidad
+579,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,0.484447082,68.59656941,Normal,0.345646093,63.51956492,Normal,1.467319337,92.88553971,Obesidad
+580,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-0.239828334,40.52316702,Normal,-0.909809815,18.14614089,Normal,-0.462042634,32.20253735,Normal
+581,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-0.378564103,35.25057915,Normal,-0.625747502,26.57402853,Normal,0.276880562,60.90640908,Normal
+582,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-23.11604253,1.5968E-116,Desnutricion,-0.018054793,49.27975712,Normal,-0.450290488,32.62504983,Normal
+583,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,0.334370182,63.09498816,Normal,0.262402238,60.34943262,Normal,2.538867208,99.44393987,Obesidad
+584,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-0.533054215,29.69980258,Normal,-0.957757131,16.90926204,Normal,0.392842985,65.27822727,Normal
+585,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-1.14355817,12.64034588,Normal,-0.545580449,29.26771832,Normal,1.962481373,97.51467664,Obesidad
+586,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,0.678367348,75.12305967,Normal,-1.574839723,5.764672248,Normal,0.444369499,67.16122693,Normal
+587,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,0.08485249,53.38106685,Normal,-0.510189756,30.49592642,Normal,1.294793485,90.230426,Obesidad
+588,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,0.711569374,76.16342612,Normal,-0.630110079,26.43112828,Normal,0.151559884,56.02329622,Normal
+589,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,-0.098058676,46.09428505,Normal,-1.328411359,9.202112456,Normal,-0.178474168,42.91753031,Normal
+590,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,0.489515975,68.77617761,Normal,-1.209787402,11.31802407,Normal,0.902021744,81.64773414,Normal
+591,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-0.117959039,45.30500568,Normal,-0.51337886,30.3843165,Normal,-1.514405588,6.49615015,Bajo Peso
+592,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,0.525721691,70.04592048,Normal,-0.824762908,20.47531043,Normal,0.744408228,77.16852287,Normal
+593,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,0.267763656,60.55593762,Normal,-1.545677677,6.109121553,Normal,1.616441156,94.70005169,Obesidad
+594,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,0.42385207,66.41631494,Normal,-0.991007345,16.08409969,Normal,3.592040316,99.98359505,Obesidad
+595,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,0.247840676,59.78711593,Normal,-1.874749514,3.041359581,Piernas cortas,0.195335608,57.74348888,Normal
+596,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,0.767937621,77.87378774,Normal,-1.461602847,7.192503684,Normal,1.10075751,86.44988955,Obesidad
+597,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,0.521289832,69.89175585,Normal,-1.123965086,13.05139189,Normal,2.401552061,99.18371571,Obesidad
+598,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-0.430107876,33.35585856,Normal,-0.443741439,32.86147657,Normal,0.571674608,71.622878,Normal
+599,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,0.239552833,59.4661533,Normal,-1.028245204,15.19172497,Normal,0.809883096,79.09963161,Normal
+600,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,1.731052985,95.82788427,Alto,1.054978029,85.42823133,Normal,2.223065928,98.68943226,Obesidad
+601,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,2.759617962,99.71065505,Alto,4.199036988,99.99865974,Piernas largas,-2.01687339,2.185436384,Desnutricion
+602,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,0.217591127,58.61261507,Normal,-1.334030545,9.109692316,Normal,1.403588646,91.9779311,Obesidad
+603,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,-0.687407159,24.59130937,Normal,-1.745243685,4.047123,Piernas cortas,-0.569163826,28.46224836,Normal
+604,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,-0.429728325,33.36966381,Normal,-0.710003763,23.88509012,Normal,0.851428051,80.27341926,Normal
+605,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-0.285354788,38.7686171,Normal,-1.424411278,7.716372564,Normal,1.03638545,84.99888221,Normal
+606,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,-0.500357592,30.84116542,Normal,-0.440759998,32.96933779,Normal,-0.435132482,33.17331339,Normal
+607,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,6,-0.620387417,26.75013772,Normal,-0.356892907,36.058599,Normal,2.734478132,99.68760377,Obesidad
+608,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,6,0.305667115,62.00709428,Normal,-0.394836345,34.6481835,Normal,0.159243675,56.32615523,Normal
+609,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,1.545505413,93.88879697,Normal,-0.926487441,17.70963604,Normal,3.101919405,99.90386485,Obesidad
+610,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,4.578997414,99.9997664,Alto,3.385667477,99.96449732,Piernas largas,-4.874394967,5.45712E-05,Desnutricion
+611,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,-0.255920317,39.90061831,Normal,-0.398398167,34.51683544,Normal,1.001794917,84.17786737,Normal
+612,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-0.988458861,16.14639863,Normal,-1.35210548,8.817078724,Normal,-0.991334686,16.07610906,Normal
+613,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,0.578906854,71.86739874,Normal,-0.845252178,19.89850278,Normal,0.388240408,65.10809336,Normal
+614,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,-0.693986873,24.38452206,Normal,-2.282591034,1.122723479,Piernas cortas,-0.502964079,30.74947638,Normal
+615,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,2.168841131,98.49526263,Alto,2.794849848,99.74038087,Piernas largas,-0.384315076,35.03724678,Normal
+616,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-1.767749563,3.855139006,Desnutricion,-0.545580449,29.26771832,Normal,-0.190746469,42.43621152,Normal
+617,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,-1.150762203,12.49150392,Normal,-1.294935319,9.767127158,Normal,-1.286335603,9.916298103,Bajo Peso
+618,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,1.296629377,90.26206302,Normal,0.099680111,53.97008544,Normal,0.999022774,84.11081705,Normal
+619,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,-0.423063316,33.61245331,Normal,-0.845604771,19.88866314,Normal,-0.47442753,31.75975325,Normal
+620,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,0.251274264,59.91989644,Normal,-0.643676538,25.98926036,Normal,2.261473308,98.81350181,Obesidad
+621,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,0.03220501,51.28457197,Normal,-7.774956901,3.77365E-13,Piernas cortas,3.094919104,99.90156671,Obesidad
+622,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,-0.613331091,26.98287198,Normal,-1.183392923,11.83267303,Normal,0.670709829,74.87973,Normal
+623,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,-0.429196911,33.38899653,Normal,-1.184888977,11.8030673,Normal,1.990622717,97.67388096,Obesidad
+624,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,0.166757591,56.62196056,Normal,-0.957097682,16.92589768,Normal,-0.673244471,25.03958866,Normal
+625,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,0.388826415,65.12977204,Normal,-1.052102191,14.63763335,Normal,1.044540972,85.18824133,Obesidad
+626,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,-1.13890649,12.73710791,Normal,-1.098492811,13.59946777,Normal,0.809682354,79.09386189,Normal
+627,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-1.242909275,10.69506337,Normal,-1.863706473,3.118146798,Piernas cortas,-0.935037906,17.48843824,Normal
+628,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,1.348416147,91.12377133,Normal,-1.795313308,3.630189795,Piernas cortas,3.47588703,99.97454166,Obesidad
+629,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,-1.024246528,15.28594235,Normal,-2.914416565,0.178177025,Piernas cortas,1.266140503,89.72686081,Obesidad
+630,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,7,-0.244102522,40.35757095,Normal,0.108586226,54.32346568,Normal,1.088642057,86.18441185,Obesidad
+631,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,-0.08653762,46.55195259,Normal,0.913827399,81.95962264,Normal,-2.721456571,0.324974623,Desnutricion
+632,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,-1.116098829,13.21899167,Normal,-1.225664385,11.01624989,Normal,-0.96966858,16.61058585,Normal
+633,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,0.923721039,82.21842123,Normal,-0.196755584,42.20094051,Normal,1.385189179,91.70026857,Obesidad
+634,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-0.012235169,49.51189956,Normal,0.026461551,51.05553998,Normal,-0.201968858,41.99705352,Normal
+635,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,0.402792086,65.64494082,Normal,-1.175407447,11.99158727,Normal,0.397998874,65.4684492,Normal
+636,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,-0.627957798,26.50157933,Normal,-0.421135557,33.68280492,Normal,1.089855575,86.21116157,Obesidad
+637,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,-0.477781754,31.64027744,Normal,-1.22780102,10.97608363,Normal,0.726522683,76.62407965,Normal
+638,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,1.023264444,84.69085848,Normal,-0.198405132,42.13640512,Normal,1.634674709,94.89413715,Obesidad
+639,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,-0.913881969,18.03894347,Normal,-1.142531659,12.66165471,Normal,-0.145743523,44.20619308,Normal
+640,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,0.336661394,63.18139154,Normal,-2.163153294,1.52646956,Piernas cortas,2.196845247,98.59842498,Obesidad
+641,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,-0.653896522,25.65892374,Normal,-2.371778864,0.885134112,Piernas cortas,-0.567711275,28.51155172,Normal
+642,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,-0.223989796,41.13826215,Normal,-0.511766083,30.44073651,Normal,1.57629539,94.25211282,Obesidad
+643,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,-1.150762203,12.49150392,Normal,-1.519853584,6.427388919,Normal,0.855508247,80.38650795,Normal
+644,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,-0.802225933,21.1211139,Normal,-0.704787831,24.04711412,Normal,1.739092149,95.89907223,Obesidad
+645,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,1.338417885,90.96198741,Normal,-2.135607293,1.635571824,Piernas cortas,2.246063955,98.76500441,Obesidad
+646,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-0.193228699,42.33899317,Normal,-0.551391773,29.06825696,Normal,1.009000819,84.35128793,Normal
+647,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-1.242909275,10.69506337,Normal,-1.559460394,5.944372587,Normal,0.869670779,80.77598271,Normal
+648,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,-1.912587311,2.79004527,Desnutricion,-2.10531312,1.763203039,Piernas cortas,0.692147254,75.55775706,Normal
+649,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,7,-0.102192393,45.93019829,Normal,-0.53357397,29.68181606,Normal,-0.430363207,33.34657275,Normal
+650,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,0.084254325,53.35728866,Normal,0.527820354,70.11879856,Normal,-0.390990598,34.79020927,Normal
+651,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,192.8478901,100,Alto,21.02355881,100,Piernas largas,-4194.493867,0,Desnutricion
+652,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,0.256814213,60.13389013,Normal,-0.459833888,32.28177284,Normal,2.157699878,98.45244133,Obesidad
+653,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,1.070355957,85.7770442,Normal,-0.698585616,24.24055176,Normal,1.447098735,92.60653638,Obesidad
+654,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-0.325806365,37.22854314,Normal,-1.129801339,12.9279972,Normal,1.602044521,94.54271176,Obesidad
+655,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,1.141129092,87.30918967,Normal,0.127362332,55.06731861,Normal,-0.812743139,20.81826712,Normal
+656,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-1.063203647,14.38448045,Normal,-1.155164506,12.40115333,Normal,-0.692294344,24.43762508,Normal
+657,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-1.355513427,8.762701683,Normal,-2.527724515,0.574021973,Piernas cortas,1.84624579,96.75717375,Obesidad
+658,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,1.735710564,95.86924877,Alto,-0.096068966,46.17328993,Normal,3.251097892,99.94251987,Obesidad
+659,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-0.741838743,22.90925219,Normal,-0.508992059,30.53788953,Normal,2.318711511,98.9794658,Obesidad
+660,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-1.600441071,5.475038501,Normal,-6.125671929,4.51509E-08,Piernas cortas,3.192320726,99.92943274,Obesidad
+661,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,1.735710564,95.86924877,Alto,0.265114164,60.4539242,Normal,1.085057414,86.10518865,Obesidad
+662,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-0.244820299,40.3297788,Normal,-0.528796927,29.84731648,Normal,-0.166109929,43.40352201,Normal
+663,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,-0.28371708,38.83136023,Normal,0.204280967,58.09330287,Normal,-0.40181274,34.39109226,Normal
+664,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-0.899152699,18.42856657,Normal,-0.659697986,25.47238296,Normal,1.54370197,93.86697256,Obesidad
+665,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,0.544580685,70.69790291,Normal,-1.231206849,10.91227553,Normal,0.5820254,71.97252139,Normal
+666,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-0.42047384,33.70696681,Normal,-0.78269938,21.69018332,Normal,0.620987588,73.26961052,Normal
+667,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,0.150710469,55.98979429,Normal,-0.729535116,23.28371976,Normal,0.507197294,69.39918033,Normal
+668,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-0.635214257,26.26443431,Normal,-1.607394263,5.398395388,Normal,0.781350008,78.27016675,Normal
+669,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,0.321473607,62.6074245,Normal,-0.294052574,38.43588649,Normal,0.029399962,51.17271984,Normal
+670,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,0.981896372,83.69245484,Normal,-0.486536764,31.32933229,Normal,-1.174901253,12.0017112,Bajo Peso
+671,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,0.00180623,50.07205812,Normal,-1.294147557,9.780722872,Normal,1.669778904,95.25184421,Obesidad
+672,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,0.052360958,52.08794589,Normal,-0.574204802,28.291461,Normal,3.150418066,99.91848151,Obesidad
+673,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,1.488978384,93.17534695,Normal,-0.940650103,17.34420985,Normal,3.533500054,99.9794952,Obesidad
+674,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,0.806545945,79.00359363,Normal,-0.850731174,19.74593509,Normal,2.933301398,99.83231093,Obesidad
+675,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,0.806545945,79.00359363,Normal,-0.752154214,22.59791622,Normal,2.758884381,99.71000474,Obesidad
+676,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,0.183994225,57.29910073,Normal,-0.704597705,24.05303136,Normal,0.930031813,82.38226934,Normal
+677,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-1.38456855,8.30922168,Normal,-0.875045192,19.07746583,Normal,-1.426251919,7.689781888,Bajo Peso
+678,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,3.070216855,99.8930483,Alto,-0.272052841,39.27906949,Normal,2.319377793,98.98127197,Obesidad
+679,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-0.648671068,25.82755043,Normal,-1.200667142,11.49401724,Normal,-0.564504973,28.62052584,Normal
+680,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-0.246247641,40.27452693,Normal,-0.668914457,25.17750238,Normal,-0.912176289,18.0837962,Normal
+681,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,-2.300185308,1.071886191,Desnutricion,-1.858621675,3.154039129,Piernas cortas,0.518405135,69.79121837,Normal
+682,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-0.244257123,40.35158444,Normal,-0.541172597,29.41943118,Normal,0.839171795,79.93135438,Normal
+683,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,-1.158158193,12.33997428,Normal,-1.332156064,9.140445532,Normal,1.6674992,95.22924083,Obesidad
+684,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-1.122854287,13.07496924,Normal,-2.093504837,1.815205637,Piernas cortas,1.295867876,90.24894958,Obesidad
+685,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,0.242763593,59.59057296,Normal,-0.655721396,25.60016999,Normal,0.958118918,83.09986015,Normal
+686,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-1.554519684,6.003025258,Normal,-0.656268671,25.58256358,Normal,2.469313817,99.32313779,Obesidad
+687,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-0.486980289,31.31361497,Normal,0.062131921,52.47711115,Normal,5.421092416,99.99999704,Obesidad
+688,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-0.167902549,43.33299724,Normal,-1.552806539,6.023468,Normal,-0.101023459,45.97659188,Normal
+689,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,0.438140813,66.93578948,Normal,-2.890135486,0.192537912,Piernas cortas,3.337409467,99.95771837,Obesidad
+690,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,8,-0.245831179,40.29064603,Normal,-1.260817388,10.36873238,Normal,1.485470735,93.1290415,Obesidad
+691,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,1.511522671,93.46723315,Normal,-0.487290963,31.30260754,Normal,0.057360894,52.28711431,Normal
+692,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-0.248574988,40.1844779,Normal,-0.655721396,25.60016999,Normal,0.766588909,77.83370142,Normal
+693,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,8,-0.211040485,41.64278402,Normal,1.520606092,93.58206414,Normal,3.004586612,99.86702899,Obesidad
+694,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,0.347835921,63.60182946,Normal,-2.090277419,1.829644324,Piernas cortas,2.00618844,97.75819266,Obesidad
+695,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-0.166012095,43.40737159,Normal,-1.616176988,5.302802636,Normal,2.092832154,98.18179298,Obesidad
+696,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,0.815143435,79.25048941,Normal,-1.468182697,7.102730148,Normal,2.4411012,99.26787246,Obesidad
+697,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,1.511522671,93.46723315,Normal,-0.769126806,22.09090183,Normal,2.799484942,99.74407898,Obesidad
+698,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-2.170810809,1.497273829,Desnutricion,-7.610119212,1.36922E-12,Piernas cortas,-0.15771584,43.7340359,Normal
+699,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-0.828008287,20.38329035,Normal,-2.522462736,0.582681483,Piernas cortas,0.701733678,75.8577367,Normal
+700,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-1.038910782,14.94231158,Normal,0.062131921,52.47711115,Normal,-2.153872503,1.562508595,Desnutricion
+701,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-0.583140838,27.98992469,Normal,0.188556893,57.47799393,Normal,-0.601721855,27.36796498,Normal
+702,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,1.307506622,90.44796464,Normal,-1.137050668,12.77585524,Normal,0.930278086,82.38864395,Normal
+703,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-0.146245986,44.18636019,Normal,0.901623384,81.63715176,Normal,0.183683877,57.28692711,Normal
+704,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-0.645114926,25.94263559,Normal,-2.262922962,1.182021932,Piernas cortas,2.110757657,98.26034263,Obesidad
+705,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-0.332078999,36.99148038,Normal,-0.894325722,18.55738206,Normal,1.710008518,95.6367851,Obesidad
+706,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,-1.423429145,7.730589427,Normal,0.850544422,80.2488763,Normal,0.059555004,52.37449719,Normal
+707,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,0.536603256,70.42291528,Normal,-0.151923194,43.96237574,Normal,0.378018007,64.72913915,Normal
+708,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-3.925183313,0.004333186,Desnutricion,-11.31503672,5.5278E-28,Piernas cortas,4.241042631,99.99888758,Obesidad
+709,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-0.345710486,36.47801516,Normal,-1.060271122,14.45106365,Normal,2.015589929,97.80785631,Obesidad
+710,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,-0.881469046,18.90320004,Normal,-0.955642903,16.96263391,Normal,0.689998334,75.49023825,Normal
+711,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,1.99992153,97.7245631,Alto,1.484544891,93.11677884,Normal,2.529366578,99.42865695,Obesidad
+712,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,0.733377044,76.83357517,Normal,-0.987815364,16.16215408,Normal,0.254037776,60.0266813,Normal
+713,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,1.429584774,92.35818859,Normal,-0.233458276,40.77027825,Normal,2.987797243,99.85950205,Obesidad
+714,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-0.01233167,49.50805,Normal,-0.52094588,30.12022365,Normal,1.663573475,95.19011518,Obesidad
+715,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,0.733377044,76.83357517,Normal,-0.104709272,45.83032521,Normal,3.528677431,99.97911791,Obesidad
+716,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,0.844624183,80.08396487,Normal,0.091827646,53.65825109,Normal,1.535295433,93.76443623,Obesidad
+717,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,0.606572735,72.79327504,Normal,-1.683401897,4.614865814,Piernas cortas,1.922413045,97.27230973,Obesidad
+718,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,0.8259559,79.55854458,Normal,-1.310118638,9.507785207,Normal,0.559906643,71.22284413,Normal
+719,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,1.322715254,90.70349557,Normal,-2.443241989,0.727798675,Piernas cortas,3.064646802,99.8910364,Obesidad
+720,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,9,0.138576737,55.51076866,Normal,-1.098620981,13.59667112,Normal,1.947843302,97.42831421,Obesidad
+721,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,0.160349373,56.3697066,Normal,-0.261940118,39.66838045,Normal,-1.666027715,4.785394716,Desnutricion
+722,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,0.844624183,80.08396487,Normal,-0.414254774,33.93437658,Normal,0.672879505,74.9488024,Normal
+723,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,0.620242412,73.24508988,Normal,-0.752627386,22.58369281,Normal,0.56587744,71.42614508,Normal
+724,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,-0.80545724,21.02779359,Normal,-1.381120328,8.362098314,Normal,2.147979014,98.41422887,Obesidad
+725,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-0.23344906,40.77063604,Normal,-0.925761696,17.72849185,Normal,-0.310642875,37.80360644,Normal
+726,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,0.369519878,64.41298703,Normal,-0.693845901,24.38894266,Normal,1.429381742,92.35527284,Obesidad
+727,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,-0.354466086,36.14948077,Normal,-1.195791636,11.58889404,Normal,-0.915917582,17.98550622,Normal
+728,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,-0.881943963,18.89035557,Normal,-0.93522885,17.48351868,Normal,1.711301203,95.64872378,Obesidad
+729,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,0.676932546,75.07756235,Normal,-0.716950857,23.67022099,Normal,0.087923436,53.50312354,Normal
+730,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-1.003501377,15.78095065,Normal,-1.15193361,12.46741778,Normal,2.021780213,97.84004686,Obesidad
+731,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,0.620242412,73.24508988,Normal,0.177861783,57.05842374,Normal,1.207556666,88.6391082,Obesidad
+732,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,0.855465087,80.38531378,Normal,-0.221321356,41.24211112,Normal,2.375289316,99.12324001,Obesidad
+733,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,-0.112794172,45.50968693,Normal,-0.705905022,24.01236022,Normal,0.587068226,72.14210568,Normal
+734,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,0.171778323,56.81940961,Normal,-1.148348059,12.54124535,Normal,1.545968565,93.89439201,Obesidad
+735,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,1.372420677,91.50337416,Normal,0.147938472,55.88043368,Normal,2.261263087,98.81285147,Obesidad
+736,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,9,-0.713420352,23.77928415,Normal,-1.616176988,5.302802636,Normal,0.891791082,81.37475388,Normal
+737,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-0.411183515,34.04689875,Normal,-1.461742697,7.190586609,Normal,0.362584167,64.15422301,Normal
+738,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,0.742040772,77.09686835,Normal,-0.18270175,42.75160213,Normal,2.037773909,97.92137256,Obesidad
+739,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,0.670692276,74.87917079,Normal,0.406951902,65.79783428,Normal,-0.653625373,25.66765965,Normal
+740,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,11,0.888386012,81.28334265,Normal,-1.966958347,2.459400651,Piernas cortas,1.559508671,94.05619831,Obesidad
+741,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,-0.381517449,35.14096632,Normal,-0.715399149,23.7181219,Normal,0.288243164,61.34196949,Normal
+742,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,0.534498333,70.35015988,Normal,0.817469337,79.31698673,Normal,0.251015138,59.90987972,Normal
+743,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,-0.165305082,43.43519295,Normal,-1.150038982,12.5063908,Normal,2.363723928,99.09538555,Obesidad
+744,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-0.950654684,17.08898497,Normal,-1.069435599,14.24367167,Normal,0.732700504,76.81294417,Normal
+745,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,-0.974318415,16.4949232,Normal,-1.077915142,14.05358136,Normal,-0.761525086,22.31717506,Normal
+746,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,2.063327156,98.04592222,Alto,-1.966228332,2.463612056,Piernas cortas,2.878495478,99.8002115,Obesidad
+747,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,11,1.55277037,93.97609981,Normal,-2.005934314,2.243162833,Piernas cortas,-0.119618635,45.23926287,Normal
+748,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,11,-0.536513062,29.58020055,Normal,-0.225418906,41.08267025,Normal,-0.006544089,49.7389305,Normal
+749,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,-0.007525143,49.69979307,Normal,0.080164338,53.19467236,Normal,2.11810629,98.29169665,Obesidad
+750,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-1.977267962,2.400567454,Desnutricion,-1.978071619,2.396031385,Piernas cortas,-0.656412339,25.57794266,Normal
+751,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,10,2.066517571,98.06101825,Alto,0.032357585,51.29065563,Normal,-0.638183967,26.16769664,Normal
+752,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,-1.671214328,4.733967558,Desnutricion,-2.953753145,0.156967507,Piernas cortas,1.701908369,95.56137267,Obesidad
+753,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,0.291088673,61.45082488,Normal,0.913419054,81.9488906,Normal,2.271727941,98.84485263,Obesidad
+754,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,-0.362897903,35.83405768,Normal,-0.451899893,32.56705506,Normal,-1.694860863,4.505090924,Desnutricion
+755,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,0.862194428,80.57097323,Normal,-0.014391075,49.42589897,Normal,0.010006275,50.39918597,Normal
+756,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,11,-0.167607903,43.34458766,Normal,0.611387515,72.95284669,Normal,0.108424811,54.31706394,Normal
+757,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,11,0.199702733,57.91434618,Normal,-0.950414916,17.09507338,Normal,1.888233597,97.05027013,Obesidad
+758,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,0.649073951,74.1854711,Normal,-0.213535587,41.54546172,Normal,2.387295919,99.15135884,Obesidad
+759,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,11,0.115028647,54.57887923,Normal,-1.212933935,11.257754,Normal,2.509417798,99.39534821,Obesidad
+760,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,0.062193482,52.47956235,Normal,-2.942101034,0.162996774,Piernas cortas,2.682074597,99.63416429,Obesidad
+761,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-0.328495441,37.12685452,Normal,-0.996721806,15.9449781,Normal,2.632399964,99.57608007,Obesidad
+762,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,11,0.565650393,71.41842681,Normal,-2.390090641,0.842210756,Piernas cortas,2.469734476,99.32393313,Obesidad
+763,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,-0.646874965,25.88564348,Normal,-0.073134273,47.08496342,Normal,-0.529115863,29.8362539,Normal
+764,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,11,0.269467341,60.62149644,Normal,-1.212933935,11.257754,Normal,1.332082006,90.85833788,Obesidad
+765,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,-0.370601846,35.54670534,Normal,-0.852603929,19.69394915,Normal,-0.142426507,44.33715631,Normal
+766,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,2.14749452,98.41230335,Alto,0.064914677,52.58790326,Normal,1.773337866,96.1913631,Obesidad
+767,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,1.975350654,97.58858157,Alto,-0.120060233,45.22177171,Normal,2.834636223,99.77061053,Obesidad
+768,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,10,-0.843084377,19.95906278,Normal,-0.54223117,29.38296326,Normal,1.812023524,96.50087191,Obesidad
+769,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,11,-0.619081816,26.7931231,Normal,-1.889258633,2.942859082,Piernas cortas,1.140078202,87.28731388,Obesidad
+770,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Femenino,11,0.496614319,69.02694732,Normal,-0.834238263,20.20733667,Normal,1.543357813,93.86280082,Obesidad
+771,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,0.288096628,61.33636133,Normal,-1.680407176,4.643906036,Piernas cortas,3.487682529,99.97563869,Obesidad
+772,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,3.186197067,99.92792182,Alto,-0.272508678,39.26154597,Normal,3.235995751,99.93939041,Obesidad
+773,"Esc. Miguel Hidalgo, Atitalaquia, Hidalgo",Masculino,11,2.063327156,98.04592222,Alto,-1.689943551,4.551937726,Piernas cortas,3.477788294,99.97472155,Obesidad
