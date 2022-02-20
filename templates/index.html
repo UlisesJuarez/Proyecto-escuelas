@@ -18,7 +18,7 @@
 <body>
     <div class="container-fluid">
         <div class="container">
-            <h1 class="card-title">Dashboard</h1>
+            <h1 class="card-title">Dashboard tomas antropometicas</h1>
             <form action="{{ url_for('obtener_graficas') }}" method="post">
                 <select name="graficame" onchange="this.form.submit()">
                     <option value="">seleccionar</option>
@@ -29,12 +29,13 @@
             </form>
         </div>
         {% if defecto %}
-            <h2>Gráficos correspondientes a la {{defecto}}</h2>
+            <h3>Gráficos correspondientes a la {{defecto}}</h3>
         {% endif %}
         <div class="graficas">
-            {% for i in img_gra %}
+            
+            {% for i in img_graf %}
                 <div>
-                    <img src="{{i}}" alt=""/>
+                    <img src="./{{i}}" alt=""/>
                 </div>
             {% endfor %}
         </div>

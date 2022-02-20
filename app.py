@@ -13,7 +13,8 @@ def obtener_graficas():
     if request.method=="POST":
         grafica = request.form.get('graficame')
         escuelas=op.datos_esc()
-        return render_template('index.html',escuelas=escuelas,defecto=grafica)
+        graficas=op.graficame(grafica)
+        return render_template('index.html',escuelas=escuelas,img_graf=graficas,defecto=grafica)
 
 if __name__ == '__main__':
     app.run(port=5000,debug=True)

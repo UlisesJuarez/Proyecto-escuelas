@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 data=pd.read_csv("integración.csv")
+data.drop("#",axis=1,inplace=True)
 
 def datos_esc():
     datos_esc= data.pivot_table(index = ['Escuela'], aggfunc ='size')
@@ -13,12 +14,11 @@ def datos_esc():
     return escuelas_unicas
 
 def graficame(escuela):
+    img_por_masa=["static/img/graf_masa.png"]
     selector=data[(data.Escuela==escuela)]
-    """
-    Aquí pones el codigo para hacer las graficas, haz la pruebas en el archivo jupyter y solo copia y pega
-    el codigo aquí, exportas la ruta estatica de las imagenes las metes en un arreglo, las envias aqui con 
-    el return, las envias en la template con el nombre que aparece en el index 'img_gra' y agregas la ruta
-    estatica al src y listo solo le das estilo
-    """
-
-    print(selector)
+    por_masa=pd.crosstab(selector["indice de Masa Corporal"],selector["SEXO"])
+    graf_masa=por_masa.plot(kind="bar",figsize=(6,4),title="Índice de masa corporal por sexo")
+    fig = graf_masa.get_figure()
+    fig.savefig(img_por_masa[0])
+    
+    return img_por_masa
