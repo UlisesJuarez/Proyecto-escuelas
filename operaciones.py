@@ -1,3 +1,4 @@
+import selectors
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -20,10 +21,17 @@ def datos_esc():
 def graficame(escuela):
     img1=por_masa(escuela)
     img2=por_talla(escuela)
+    img3=longitud_relativa(escuela)
+    img4=frecuencia_edad(escuela)
+
     if img1 not in imagenes_graficas:
         imagenes_graficas.append(img1)
     if img2 not in imagenes_graficas:
         imagenes_graficas.append(img2)
+    if img3 not in imagenes_graficas:
+        imagenes_graficas.append(img3)
+    if img4 not in imagenes_graficas:
+        imagenes_graficas.append(img4)
 
     return imagenes_graficas
 
@@ -32,8 +40,7 @@ def por_masa(escuela):
     selector = data[(data.Escuela == escuela)]
 
     # Para la grafica indice de masa corporal por sexo
-    por_masa = pd.crosstab(
-        selector["indice de Masa Corporal"], selector["SEXO"])
+    por_masa = pd.crosstab(selector["indice de Masa Corporal"], selector["SEXO"])
     fig = por_masa.plot(kind="bar",figsize=(6,4),title="Índice de masa corporal por sexo",cmap="winter").get_figure()
     fig.autofmt_xdate(rotation=0)
     fig.savefig(ruta)
@@ -54,5 +61,28 @@ def por_talla(escuela):
     plt.pie(x, labels=y, autopct="%0.1f%%", colors=colores)
     plt.axis("equal")
     plt.savefig(ruta)
+
+    return ruta
+
+def longitud_relativa(escuela):
+    ruta="static/img/longitud_relativa.png"
+    selector = data[(data.Escuela == escuela)]
+    #Para la grafica por longitud de pierna relativa
+    longitud_relativa=pd.crosstab(selector["Longitud relativa de pierna"],selector["SEXO"])
+    fig = longitud_relativa.plot(kind="bar",figsize=(6,4),title="Longitud relativa de pierna por sexo",cmap="winter").get_figure()
+    fig.autofmt_xdate(rotation=0)
+    fig.savefig(ruta)
+
+    return ruta
+
+def frecuencia_edad(escuela):
+    ruta="static/img/frecuencia_edad.png"
+    selector=data[(data.Escuela == escuela)]
+
+    #Para la grafica de frecuencia de edad por genero
+    frecuencia_edad=pd.crosstab(selector["Edad en anos"],selector["SEXO"])
+    fig = frecuencia_edad.plot(kind="bar",figsize=(6,4),title="Frecuencia de genero por edad",cmap="winter").set_xlabel('Años').get_figure()
+    fig.autofmt_xdate(rotation=0)
+    fig.savefig(ruta)
 
     return ruta
