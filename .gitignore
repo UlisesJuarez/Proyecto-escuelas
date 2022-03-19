@@ -1,2 +1,12 @@
-/documentacion
+#ignoramos los datos por privacidad
+*.xlsx
+.ipynb_checkpoints
+data
+*.ipynb
+
+#ignoramos el entorno virtual del proyecto
+venv
+
+#ignoramos los csv por privacidad
 *.csv
+
