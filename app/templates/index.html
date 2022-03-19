@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+{% block content %}
+    {% include 'navbar.html' %}
+    <div class="container">
+        <h1 style="text-align:center">Alimentacion</h1>
+        <div class="row mt-5">
+            <div class="col-sm">
+                {{ div_talla_chart | safe }}
+            </div>
+            <div class="col-sm">
+                {{ div_long_pierna_chart | safe }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm">
+                {{ div_masa_corporal_chart | safe }}
+            </div>
+            <div class="col-sm">
+                {{ div_variedad_sae_chart | safe }}
+            </div>
+        </div>
+         <h1 style="text-align:center">Alimentacion</h1>
+        <div class="row mt-5">
+            <div class="col-sm">
+                {{ div_cambra_chart | safe }}
+            </div>
+            <div class="col-sm">
+                {{ div_cariogenico_chart | safe }}
+            </div>
+            <div class="col-sm">
+                {{ div_higiene_chart | safe }}
+            </div>
+        </div>
+        <h1 style="text-align:center">Medicina Integrativa</h1>
+        <div class="row mt-5">
+            {{ div_ecotecnias_chart | safe }}
+        </div>
+    </div>
+
+    {{ script_talla_chart | safe }}
+    {{ script_long_pierna_chart | safe }}
+    {{ script_masa_corporal_chart | safe }}
+    {{ script_variedad_sae_chart | safe }}
+    {{ script_cambra_chart | safe }}
+    {{ script_cariogenico_chart | safe }}
+    {{ script_higiene_chart | safe }}
+    {{ script_ecotecnias_chart | safe }}
+
+{% endblock %}
