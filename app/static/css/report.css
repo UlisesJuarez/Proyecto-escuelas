@@ -1,0 +1,78 @@
+
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #00496B;
+}
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 90%;
+    margin: 0 auto;
+    background: #fff;
+    overflow: hidden;
+    border: 1px solid #006699;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+table td,
+table th {
+    padding: 3px 10px;
+}
+
+table thead th {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #006699), color-stop(1, #00557F));
+    background: -moz-linear-gradient(center top, #006699 5%, #00557F 100%);
+    background-color: #006699;
+    color: #FFFFFF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    text-align: center;
+    border-left: 1px solid #0070A8;
+}
+
+table thead th:first-child {
+    border: none;
+}
+
+table tbody td {
+    color: #006699;
+    border-left: 1px solid #E1EEF4;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+table tbody td {
+    background: #E1EEF4;
+    color: #006699;
+}
+
+table tbody td:first-child {
+    border-left: none;
+}
+
+.buscar{
+    width: 50%;
+    height: auto;
+    margin: 10px auto;
+    text-align: center;align-items: center;
+}
+
+.form-floating{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.form-floating input{
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.content{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}

@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block content %}
+{% include 'navbar2.html' %}
+<div class="container">
+    <div class="buscar">
+        <div>
+            <img class="mb-4" src="https://icons-for-free.com/iconfiles/png/512/student+icon-1320184412790928936.png"
+                alt="" width="150" height="150">
+            <h1 class="h3 mb-3 fw-normal">Buscar informe de alumno</h1>
+        </div>
+        <form action="{{url_for('reports')}}" method="post">
+            <div class="form-floating">
+                <input type="text" class="form-control" name="id" id="floatingInput" placeholder="Ingrese el id"
+                    required>
+                <label for="floatingInput">Id alumno</label>
+                <button class="w-100 btn btn-lg btn-primary" type="submit">Buscar</button>
+            </div>
+        </form>
+    </div>
+    <div class="content">
+        {% if error %}
+        <h3>'{{error}}' no es un id válido</h3>
+        
+        {% endif %}
+        {% if generado%}
+        <h3>Informe generado</h3>
+        <a class="btn btn-primary" href="{{url_for('ver_reporte')}}">Ver reporte</a>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
