@@ -6,7 +6,7 @@ Se presentan de manera gráfica los datos estadisticos de los alumnos correspond
 
 Las gráficas se generan de manera dinámica dependiendo de la selección del usuario.
 Puedes ver el funcionamiento en el siguiente enlace:
-https://dashboard-schools.herokuapp.com/
+https://dashboard-secundarias.herokuapp.com/
 
 ----
 
