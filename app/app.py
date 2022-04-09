@@ -9,13 +9,20 @@ from bokeh.models import ColumnDataSource, HoverTool
 from bokeh.plotting import figure
 from bokeh.transform import factor_cmap
 
-from flask import Flask, render_template, request
+from flask import Flask, redirect, render_template, request,send_file, url_for
+import pdfkit
+
+
+app = Flask(__name__)
+
 
 df = pd.read_csv('./data/escuelas_data.csv')
+
 
 # datos anteriores y actuales
 data = pd.read_csv("escuelas_data.csv")
 data2 = pd.read_csv("escuelas_data2.csv")
+permiso=False
 
 ############################################################################
 #                       > CONSTANT VALUES
@@ -118,7 +125,7 @@ def redraw(p_class):
 
 ##########################################################################################
 #                          > MAIN ROUTE
-app = Flask(__name__)
+
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -428,9 +435,24 @@ def ecotecnias_bar_chart(dataset, pass_class, cpalette=palette):
 #                    - END OF CHART GENERATION FUNCTIONS -                     #
 ################################################################################
 
-@app.route("/reporte")
+@app.route("/login_reportes",methods=["GET","POST"])
+def login_reportes():
+    if request.method=="POST":
+        if request.form.get("password")=="clave123":
+            global permiso
+            permiso=True
+            return redirect(url_for("reporte"))
+        else:
+            return redirect(url_for("chart"))
+
+@app.route("/reporte",methods=["GET","POST"])
 def reporte():
-    return render_template("reportes.html")
+    global permiso
+    if permiso:
+        permiso=False
+        return render_template("reportes.html")
+    else: 
+        return redirect(url_for("chart"))
 ############################################################################
 # Generando el reporte
 @app.route('/reports', methods=['GET', 'POST'])
@@ -443,19 +465,32 @@ def reports():
                 datos_nuevos = data2[data2["id"] == id]
 
                 # datos para la tabla del informe
-                datos = {"Talla para la edad": [datos_anteriores["talla_edad"].values[0], datos_nuevos["talla_edad"].values[0]],
-                            "Longitud relativa de pierna": [datos_anteriores["long_pierna"].values[0], datos_nuevos["long_pierna"].values[0]],
-                            "Indice de masa corporal": [datos_anteriores["masa_corporal"].values[0], datos_nuevos["masa_corporal"].values[0]],
-                            "Riesgo Cambra": [datos_anteriores["cambra"].values[0], datos_nuevos["cambra"].values[0]],
-                            "Riesgo cariogenico": [datos_anteriores["cariogenico"].values[0], datos_nuevos["cariogenico"].values[0]],
-                            "Condicion de higiene": [datos_anteriores["higiene"].values[0], datos_nuevos["higiene"].values[0]],
-                            "Valoracion de lengua": [datos_anteriores["lengua_val"].values[0], datos_nuevos["lengua_val"].values[0]],
-                            "El alumno es": [datos_anteriores["alumno_es"].values[0], datos_nuevos["alumno_es"].values[0]],
-                            "Preferencia de clima": [datos_anteriores["clima_preferido"].values[0], datos_nuevos["clima_preferido"].values[0]],
-                            "Preferencia liquidos": [datos_anteriores["liquidos_pref"].values[0], datos_nuevos["liquidos_pref"].values[0]],
-                            "Padecimiento frecuente": [datos_anteriores["padecimiento"].values[0], datos_nuevos["padecimiento"].values[0]],
-                            "Tiende a tener": [datos_anteriores["tendencia"].values[0], datos_nuevos["tendencia"].values[0]],
-                            "Apetitos mas comunes": [datos_anteriores["apetito"].values[0], datos_nuevos["apetito"].values[0]]}
+                datos = {"Talla para la edad": [datos_anteriores["talla_edad"].values[0],
+                            datos_nuevos["talla_edad"].values[0]],
+                            "Longitud relativa de pierna": [datos_anteriores["long_pierna"].values[0], 
+                            datos_nuevos["long_pierna"].values[0]],
+                            "Indice de masa corporal": [datos_anteriores["masa_corporal"].values[0],
+                            datos_nuevos["masa_corporal"].values[0]],
+                            "Riesgo Cambra": [datos_anteriores["cambra"].values[0],
+                            datos_nuevos["cambra"].values[0]],
+                            "Riesgo cariogenico": [datos_anteriores["cariogenico"].values[0],
+                            datos_nuevos["cariogenico"].values[0]],
+                            "Condicion de higiene": [datos_anteriores["higiene"].values[0],
+                            datos_nuevos["higiene"].values[0]],
+                            "Valoracion de lengua": [datos_anteriores["lengua_val"].values[0],
+                            datos_nuevos["lengua_val"].values[0]],
+                            "El alumno es": [datos_anteriores["alumno_es"].values[0], 
+                            datos_nuevos["alumno_es"].values[0]],
+                            "Preferencia de clima": [datos_anteriores["clima_preferido"].values[0], 
+                            datos_nuevos["clima_preferido"].values[0]],
+                            "Preferencia liquidos": [datos_anteriores["liquidos_pref"].values[0], 
+                            datos_nuevos["liquidos_pref"].values[0]],
+                            "Padecimiento frecuente": [datos_anteriores["padecimiento"].values[0], 
+                            datos_nuevos["padecimiento"].values[0]],
+                            "Tiende a tener": [datos_anteriores["tendencia"].values[0], 
+                            datos_nuevos["tendencia"].values[0]],
+                            "Apetitos mas comunes": [datos_anteriores["apetito"].values[0], 
+                            datos_nuevos["apetito"].values[0]]}
 
                 df = pd.DataFrame(datos)
 
@@ -463,15 +498,19 @@ def reports():
                 print_data(df,'./templates/report.html',f'Datos alumno con id {id}')
 
                 #esto hace el reporte
-                #pdfkit.from_file('./templates/report.html', 'reporte.pdf')
+                pdfkit.from_url('http://127.0.0.1:5000/ver_reporte', 'reporte.pdf',
+                options={'page-size': 'Letter','orientation':'landscape'})
                 return render_template("reportes.html",generado=True)
         except ValueError:
             return render_template("reportes.html",error=request.form.get("id"))
 
-
 @app.route("/ver_reporte")
 def ver_reporte():
     return render_template("report.html")
+
+@app.route('/descarga')
+def descarga():
+    return send_file("reporte.pdf",download_name='reporte.pdf')
 
 if __name__ == '__main__':
     app.run(debug=True)

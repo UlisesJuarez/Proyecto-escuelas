@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
 {% block content %}
-{% include 'navbar2.html' %}
+{% include 'navbar.html' %}
 <div class="container">
     <div class="buscar">
         <div>
@@ -23,8 +23,8 @@
         
         {% endif %}
         {% if generado%}
-        <h3>Informe generado</h3>
-        <a class="btn btn-primary" href="{{url_for('ver_reporte')}}">Ver reporte</a>
+        <h3>Búsqueda exitosa</h3>
+        <a class="btn btn-primary" target="_blank" href="{{url_for('descarga')}}">Ver reporte</a>
         {% endif %}
     </div>
 </div>
